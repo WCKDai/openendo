@@ -7,6 +7,11 @@
         "name": "weekly-json",
         "run": "python3 -c \"import json, pathlib; root=pathlib.Path('docs/research/evidence/weekly'); name=root.joinpath('LATEST').read_text().strip(); doc=json.loads(root.joinpath(name).read_text()); assert doc['count']==len(doc['papers'])\"",
         "timeout": 60
+      },
+      {
+        "name": "security-scan-contract",
+        "run": "python3 scripts/test_security_scan.py",
+        "timeout": 180
       }
     ],
     "full": [
@@ -14,6 +19,11 @@
         "name": "weekly-json",
         "run": "python3 -c \"import json, pathlib; root=pathlib.Path('docs/research/evidence/weekly'); name=root.joinpath('LATEST').read_text().strip(); doc=json.loads(root.joinpath(name).read_text()); assert doc['count']==len(doc['papers'])\"",
         "timeout": 60
+      },
+      {
+        "name": "security-scan-contract",
+        "run": "python3 scripts/test_security_scan.py",
+        "timeout": 180
       },
       {
         "name": "ro-crate-fresh",
