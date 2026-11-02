@@ -3,17 +3,25 @@ on:
   pull_request:
   push:
     branches: [main]
+
+# The scan only reads the checkout. It does not need a GITHUB_TOKEN or a
+# paid Gitleaks organization license.
+permissions:
+  contents: read
+
 jobs:
   scan:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4.4.0
         with:
           fetch-depth: 0
+      # gitleaks/gitleaks-action@v2 exits on organization repositories that
+      # have no GITLEAKS_LICENSE ("[org] is an organization. License key is
+      # required") before the PII and RO-Crate steps can run. The OSS CLI
+      # scans the same fetch-depth 0 history.
       - name: gitleaks (secrets & credentials)
-        uses: gitleaks/gitleaks-action@v2
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: bash scripts/run_gitleaks.sh
       - name: PII scan (personal identifiers)
         run: |
           if git grep -nEi 'dearwolf|wmd@|nkp@|blxmp\.dk|hermeswebui|percivaldotbot' -- . ':!docs/llms.txt' ':!.github/'; then
