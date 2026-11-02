@@ -1,119 +1,82 @@
 {
- "updated": "2026-10-26",
+ "updated": "2026-11-02",
  "trials": [
   {
-   "nct_id": "NCT05175248",
-   "title": "Nutritional Intervention for Endometriosis",
-   "status": "ACTIVE_NOT_RECRUITING",
-   "phase": "NA",
-   "sponsor": "Physicians Committee for Responsible Medicine",
-   "countries": [
-    "United States"
-   ],
-   "url": "https://clinicaltrials.gov/study/NCT05175248"
-  },
-  {
-   "nct_id": "NCT07876648",
-   "title": "Prospective Trial of [18F]AlF-FAPI-74 for PET Imaging of Fibroblast Activation Protein in Patients With Endometriosis",
-   "status": "RECRUITING",
-   "phase": "NA",
-   "sponsor": "Universitaire Ziekenhuizen KU Leuven",
+   "nct_id": "NCT07900698",
+   "title": "Clinical Impact of Ultrasound Diagnosis in Bowel Endometriosis",
+   "status": "NOT_YET_RECRUITING",
+   "phase": "N/A",
+   "sponsor": "Erasme University Hospital",
    "countries": [
     "Belgium"
    ],
-   "url": "https://clinicaltrials.gov/study/NCT07876648"
+   "url": "https://clinicaltrials.gov/study/NCT07900698"
   },
   {
-   "nct_id": "NCT07882498",
-   "title": "Postoperative Pain Trajectories After Endometriosis Surgery",
+   "nct_id": "NCT05245695",
+   "title": "Deep Neural Network Stratification for Use Detecting Endometriosis in Women Affected by Chronic Pelvic Pain (EndoCheck)",
    "status": "RECRUITING",
    "phase": "N/A",
-   "sponsor": "Centre Hospitalier Universitaire, Amiens",
-   "countries": [
-    "France"
-   ],
-   "url": "https://clinicaltrials.gov/study/NCT07882498"
-  },
-  {
-   "nct_id": "NCT07875062",
-   "title": "Trial Evaluating Nutritional Fiber in Digestive Symptoms of Endometriosis",
-   "status": "RECRUITING",
-   "phase": "NA",
-   "sponsor": "LOAM Science",
+   "sponsor": "Aspira Women's Health",
    "countries": [
     "United States"
    ],
-   "url": "https://clinicaltrials.gov/study/NCT07875062"
+   "url": "https://clinicaltrials.gov/study/NCT05245695"
   },
   {
-   "nct_id": "NCT07881562",
-   "title": "Perioperative Esketamine Safety and Efficacy in Reducing Postoperative ENDometriosis PAIN (the ENDPAIN Trial): a Randomized Controlled Trial.",
+   "nct_id": "NCT07898670",
+   "title": "Effects of Ashwagandha Supplementation on Quality of Life and Well-Being in Women With Endometriosis",
    "status": "NOT_YET_RECRUITING",
-   "phase": "PHASE4",
-   "sponsor": "Region Skane",
-   "countries": [],
-   "url": "https://clinicaltrials.gov/study/NCT07881562"
+   "phase": "NA",
+   "sponsor": "Medical University of Vienna",
+   "countries": [
+    "Austria"
+   ],
+   "url": "https://clinicaltrials.gov/study/NCT07898670"
   },
   {
-   "nct_id": "NCT06141720",
-   "title": "Feasibility of a Mindfulness Intervention for Endometriosis Surgery",
-   "status": "ACTIVE_NOT_RECRUITING",
-   "phase": "NA",
-   "sponsor": "Milton S. Hershey Medical Center",
+   "nct_id": "NCT00073801",
+   "title": "Pelvic Pain in Women With Endometriosis",
+   "status": "COMPLETED",
+   "phase": "N/A",
+   "sponsor": "National Institute of Neurological Disorders and Stroke (NINDS)",
    "countries": [
     "United States"
    ],
-   "url": "https://clinicaltrials.gov/study/NCT06141720"
+   "url": "https://clinicaltrials.gov/study/NCT00073801"
   },
   {
-   "nct_id": "NCT06955221",
-   "title": "Effect of Alcohol Sclerotherapy on Pelvic Pain and Quality of Life in Women With Ovarian Endometriosis",
+   "nct_id": "NCT07907848",
+   "title": "Psychotherapy in Patients With Endometriosis: Cognitive Behavioral Therapy Versus Acceptance and Commitment Therapy",
+   "status": "NOT_YET_RECRUITING",
+   "phase": "NA",
+   "sponsor": "Fiammetta Cosci",
+   "countries": [
+    "Italy"
+   ],
+   "url": "https://clinicaltrials.gov/study/NCT07907848"
+  },
+  {
+   "nct_id": "NCT07755956",
+   "title": "Phase Ia Trial of HHK001 Compared With Enantone in Patients With Endometriosis",
+   "status": "RECRUITING",
+   "phase": "PHASE1",
+   "sponsor": "Zhuhai Huahaikang Pharmaceutical Technology Co., Ltd.",
+   "countries": [
+    "China"
+   ],
+   "url": "https://clinicaltrials.gov/study/NCT07755956"
+  },
+  {
+   "nct_id": "NCT07393958",
+   "title": "Impact of Food Supplementation on Quality of Life in Patients With Endometriosis and Pelvic Pain.",
    "status": "RECRUITING",
    "phase": "NA",
-   "sponsor": "Hospital Universitari de Bellvitge",
+   "sponsor": "Arafarma Group, S.A.",
    "countries": [
     "Spain"
    ],
-   "url": "https://clinicaltrials.gov/study/NCT06955221"
-  },
-  {
-   "nct_id": "NCT07260669",
-   "title": "A Phase 2 Trial to Investigate Efficacy and Safety of Vipoglanstat in Women With Endometriosis",
-   "status": "ACTIVE_NOT_RECRUITING",
-   "phase": "PHASE2",
-   "sponsor": "Gesynta Pharma AB",
-   "countries": [
-    "Bulgaria",
-    "Czechia",
-    "Hungary",
-    "Italy",
-    "Poland",
-    "Romania",
-    "United Kingdom"
-   ],
-   "url": "https://clinicaltrials.gov/study/NCT07260669"
-  },
-  {
-   "nct_id": "NCT07232485",
-   "title": "Retinal Imaging for Systemic Inflammation in Endometriosis",
-   "status": "RECRUITING",
-   "phase": "N/A",
-   "sponsor": "University of Edinburgh",
-   "countries": [
-    "United Kingdom"
-   ],
-   "url": "https://clinicaltrials.gov/study/NCT07232485"
-  },
-  {
-   "nct_id": "NCT06543550",
-   "title": "Comparison Between the Effects of Implantable Gestrinone and Oral Dienogest in the Treatment of Endometriosis",
-   "status": "RECRUITING",
-   "phase": "PHASE4",
-   "sponsor": "Bio Meds Pharmaceutica Ltda",
-   "countries": [
-    "Brazil"
-   ],
-   "url": "https://clinicaltrials.gov/study/NCT06543550"
+   "url": "https://clinicaltrials.gov/study/NCT07393958"
   }
  ]
 }
