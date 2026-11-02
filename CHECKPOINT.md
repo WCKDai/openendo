@@ -16,7 +16,7 @@
 > owner tags below are historical; treat open items as Galahad's. The human
 > (wckdboy) remains final reviewer.
 
-**Last updated:** 2026-10-30 (Galahad, M2 digest) · **Maintainer:** Galahad (sole agent)
+**Last updated:** 2026-11-02 (Galahad, weekly data refresh — CLAIMED) · **Maintainer:** Galahad (sole agent)
 
 ---
 
@@ -37,7 +37,7 @@
 | INT | RO-Crate integration contract | ✅ merged · 🔧 CI wiring next | 2026-09-02 | Percival (done) |
 | SITE | Perf fix + Target intelligence §06 | ✅ live | 2026-09-02 | Percival (done) |
 | WIKI | Knowledge base (13 pages, wiki.html, llms.txt) | 🟢 live — 2026-09-14 packet merged into sirolimus / mrgprx2-pain / ferroptosis (`contested`); staging deleted | 2026-09-14 | Galahad |
-| DATA | Weekly refresh (trials, PubMed, funding) | 🔄 automated Mon 08:00 — **RESURRECTED 2026-09-07 (galahad cron, hardened pipeline)** · **refresh 2026-10-26** (147 recruiting, 29 PubMed/7d; 7-day windows rolled) | 2026-10-26 | Galahad |
+| DATA | Weekly refresh (trials, PubMed, funding) | 🔄 **CLAIMED 2026-11-02** — Group A refresh in progress on `galahad/data-refresh-2026-11-02` (main still shows generated_at 2026-10-26) | 2026-11-02 | Galahad |
 | P0 | Data-layer reconciliation | ✅ merged — PR #23; **scripts fixes CLAIMED by Galahad 2026-09-07** (update_data pagination/atomic/push-check; repurpose_screen; access.json DK postcodes) | 2026-09-07 | Galahad |
 | SITE | openendo-www split (decree) | 🔄 audit re-scoped 2026-09-12; 8 HTML keep/delete decided (all kept this pass) | 2026-09-12 | Galahad |
 
