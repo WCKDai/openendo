@@ -1,208 +1,418 @@
 {
- "updated": "2026-10-26",
+ "updated": "2026-11-02",
  "papers": [
   {
-   "date": "2026 Oct 25",
-   "pmid": "42927852",
-   "title": "Regarding \"The Robotic Trade-Off in Endometriosis Surgery: Robot-Assisted Versus Conventional Laparoscopy-A Systematic Review and Meta-Analysis\".",
-   "journal": "Journal of minimally invasive gynecology",
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42927852/"
+   "date": "2026 Oct 31",
+   "pmid": "42965769",
+   "title": "Nanocurcumin supplementation modulates inflammatory markers: a systematic review of randomized clinical trials.",
+   "journal": "Inflammopharmacology",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42965769/"
   },
   {
-   "date": "2026 Oct 24",
-   "pmid": "42925945",
-   "title": "IVF versus surgery for infertility in women with deep and ovarian endometriosis: a partially randomized patient preference trial.",
-   "journal": "American journal of obstetrics and gynecology",
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42925945/"
+   "date": "2026 Oct 31",
+   "pmid": "42965746",
+   "title": "Correction to: Integrated Serum Pharmacochemistry, Metabolomics, and Network Pharmacology to Reveal the Material Basis and Mechanism of Juan-tong-yin in the Treatment of Endometriosis.",
+   "journal": "Applied biochemistry and biotechnology",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42965746/"
   },
   {
-   "date": "2026 Oct",
-   "pmid": "42924039",
-   "title": "Laparoscopic Endometriosis Phenotypes and Preoperative Non-suspicion of Endometriosis in Women With Superficial Disease: A Retrospective Study in Kinshasa.",
-   "journal": "Cureus",
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42924039/"
+   "date": "2026 Oct 30",
+   "pmid": "42962847",
+   "title": "Incidence and Management of Pelvic Pain in Patients with Obstructive and Non-Obstructive Müllerian Anomalies.",
+   "journal": "Journal of pediatric and adolescent gynecology",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42962847/"
   },
   {
-   "date": "2026 Dec",
-   "pmid": "42923654",
-   "title": "Endometriosis-associated lesions during or after long-term estrogen-only therapy following hysterectomy: 2 cases.",
-   "journal": "JCEM case reports",
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42923654/"
-  },
-  {
-   "date": "2026 Oct 23",
-   "pmid": "42922369",
-   "title": "Second-line MRI after expert transvaginal ultrasound in selected patients with suspected complex deep endometriosis: A prospective cohort study.",
-   "journal": "Acta obstetricia et gynecologica Scandinavica",
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42922369/"
-  },
-  {
-   "date": "2026 Dec",
-   "pmid": "42921169",
-   "title": "Ectopic endometrial stromal cells-derived exosomes accelerate endometriosis progression by delivering PDLIM3 to induce macrophage M2 polarization.",
-   "journal": "Journal of cell communication and signaling",
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42921169/"
-  },
-  {
-   "date": "2026 Oct 24",
-   "pmid": "42920026",
-   "title": "Ferroptosis in health and disease.",
-   "journal": "Molecular biomedicine",
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42920026/"
-  },
-  {
-   "date": "2026 Oct 23",
-   "pmid": "42918409",
-   "title": "S2 Sacral root Schwannoma: Laparoscopic Excision with ICG.",
-   "journal": "Journal of minimally invasive gynecology",
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42918409/"
-  },
-  {
-   "date": "2026 Oct 21",
-   "pmid": "42914766",
-   "title": "Acceptability of a communication tool to facilitate sexual wellbeing discussions between patients and practitioners in endometriosis care.",
-   "journal": "Patient education and counseling",
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42914766/"
-  },
-  {
-   "date": "2026 Oct 23",
-   "pmid": "42914558",
-   "title": "Macrophage migration inhibitory factor in human fertility: A systematic review of clinical and reproductive implications, 2015-2025.",
-   "journal": "Clinical and experimental reproductive medicine",
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42914558/"
-  },
-  {
-   "date": "2026 Oct 22",
-   "pmid": "42911433",
-   "title": "Decision-relevant patient information in YouTube videos on robotic surgery for endometriosis: a cross-sectional content analysis.",
-   "journal": "Journal of robotic surgery",
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42911433/"
-  },
-  {
-   "date": "2026 Oct 22",
-   "pmid": "42910893",
-   "title": "Correction: Serum miRNA-based diagnostic models for endometriosis: from discovery to validation.",
-   "journal": "Human reproduction (Oxford, England)",
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42910893/"
-  },
-  {
-   "date": "2026 Oct 23",
-   "pmid": "42909529",
-   "title": "Diagnostic overlap between necrotic leiomyoma, adenomyoma and uterine sarcoma: an ultrasound challenge.",
-   "journal": "Journal of ultrasound",
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42909529/"
-  },
-  {
-   "date": "2026 Oct 22",
-   "pmid": "42907392",
-   "title": "Postpartum Spontaneous Hemothorax Strongly Suggestive of Thoracic Endometriosis Syndrome: A Case Report.",
-   "journal": "Internal medicine (Tokyo, Japan)",
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42907392/"
-  },
-  {
-   "date": "2026 Oct 21",
-   "pmid": "42905159",
-   "title": "Pathophysiological Mechanisms and Clinical Implications of Lower Urinary Tract Symptoms in Patients with Deep Endometriosis: A Narrative Review.",
-   "journal": "International urogynecology journal",
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42905159/"
-  },
-  {
-   "date": "2026 Oct 20",
-   "pmid": "42901254",
-   "title": "Beyond the pelvis: redefining endometriosis as a systemic inflammatory disorder. A systematic review and meta-analysis.",
-   "journal": "Autoimmunity reviews",
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42901254/"
-  },
-  {
-   "date": "2026 Oct 20",
-   "pmid": "42900624",
-   "title": "Reversible Camptocormia Secondary to Deep Infiltrating Endometriosis: A Treatable Non-Neurological Cause.",
-   "journal": "Movement disorders clinical practice",
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42900624/"
-  },
-  {
-   "date": "2026 Oct 20",
-   "pmid": "42900601",
-   "title": "Oxidative Stress in Female Reproductive Health and Infertility: Mechanisms, Biomarkers, Therapeutic Interventions.",
-   "journal": "Reproduction & fertility",
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42900601/"
-  },
-  {
-   "date": "2026 Oct 20",
-   "pmid": "42900597",
-   "title": "Nutritional Supplements in the Treatment of Endometriosis-Associated Symptoms: A Systematic Review.",
-   "journal": "Reproduction & fertility",
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42900597/"
-  },
-  {
-   "date": "2026 Oct 20",
-   "pmid": "42900000",
-   "title": "Reproductive effects of statin exposure in female rodents: a systematic review and meta-analysis.",
-   "journal": "Critical reviews in toxicology",
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42900000/"
+   "date": "2026 Oct 30",
+   "pmid": "42962755",
+   "title": "Reoperation Rates and Pain-Related Outcomes Following Hysterectomy in Pathologically Confirmed Endometriosis: Impact of Oophorectomy Status.",
+   "journal": "Journal of obstetrics and gynaecology Canada : JOGC = Journal d'obstetrique et gynecologie du Canada : JOGC",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42962755/"
   },
   {
    "date": "2026",
-   "pmid": "42899171",
-   "title": "Correction to: Menstrual fluid-derived small extracellular vesicles: a novel reservoir with distinct molecular signatures and implications for endometriosis etiopathology.",
-   "journal": "Human reproduction open",
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42899171/"
+   "pmid": "42961921",
+   "title": "Frequencies of thyroid-related diagnoses and dyslipidemia among Japanese women with menstrual-related disorders aged under 40 years: A nationwide cross-sectional study using health insurance claims data.",
+   "journal": "PloS one",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42961921/"
   },
   {
-   "date": "2026 Oct 19",
-   "pmid": "42897934",
-   "title": "Evaluating the diagnostic value of PLR and related hematologic parameters combined with CA-125 for endometriomas.",
-   "journal": "International journal of gynaecology and obstetrics: the official organ of the International Federation of Gynaecology and Obstetrics",
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42897934/"
+   "date": "2026 Oct 29",
+   "pmid": "42957215",
+   "title": "Endometriosis: earlier diagnosis without meaningful access to treatment is only half the solution.",
+   "journal": "BMJ (Clinical research ed.)",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42957215/"
   },
   {
-   "date": "2026 Oct 19",
-   "pmid": "42897337",
-   "title": "Are prophylactic antibiotics routinely necessary in laparoscopic adnexal surgery? A multicenter cohort study.",
-   "journal": "Surgical endoscopy",
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42897337/"
+   "date": "2026 Nov",
+   "pmid": "42955882",
+   "title": "Investigating Interoceptive Beliefs in Individuals With Endometriosis.",
+   "journal": "European journal of pain (London, England)",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42955882/"
   },
   {
-   "date": "2026 Oct 19",
-   "pmid": "42896814",
-   "title": "Association of Bisphenol A exposure on hormone-associated benign and malignant disorders: A systematic review and meta-analysis.",
-   "journal": "Toxicology letters",
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42896814/"
+   "date": "2026 Oct 29",
+   "pmid": "42954255",
+   "title": "Depressive symptoms, mental disorders, and treatment-seeking behavior in endometriosis: A cross-sectional study of prevalence and associations with quality of life.",
+   "journal": "Women & health",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42954255/"
   },
   {
-   "date": "2026 Oct 19",
-   "pmid": "42896655",
-   "title": "Functional and Surgical Outcomes of Nerve-Sparing Approaches in Deep Infiltrating Endometriosis: A Systematic Review and Meta-Analysis.",
-   "journal": "Journal of minimally invasive gynecology",
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42896655/"
+   "date": "2026 Nov",
+   "pmid": "42951459",
+   "title": "Efficacy of estetrol (E4) 15 mg/ drospirenone (DRSP) 3 mg combination for the treatment of dysmenorrhea in women with recurrent endometriosis and/or adenomyosis.",
+   "journal": "Taiwanese journal of obstetrics & gynecology",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42951459/"
   },
   {
-   "date": "2026 Oct 19",
+   "date": "2026 Oct 26",
+   "pmid": "42950453",
+   "title": "Structural reproductive problems and risk of endometriosis: A population-based cohort study.",
+   "journal": "Maturitas",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42950453/"
+  },
+  {
+   "date": "2026 Oct 27",
+   "pmid": "42949228",
+   "title": "The Diagnostic Value and Molecular Mechanism of miR-1271-5p Combined with Ultrasound in Endometriosis.",
+   "journal": "Journal of visualized experiments : JoVE",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42949228/"
+  },
+  {
+   "date": "2026 Oct 27",
+   "pmid": "42946378",
+   "title": "Endometriosis and fibroid tablet use soars after NICE recommendations.",
+   "journal": "BMJ (Clinical research ed.)",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42946378/"
+  },
+  {
+   "date": "2026 Oct 28",
+   "pmid": "42937421",
+   "title": "A Systematic Review of Elagolix for the Management of Endometriosis-associated Pain.",
+   "journal": "Annals of African medicine",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42937421/"
+  },
+  {
+   "date": "2026 Oct 26",
+   "pmid": "42937229",
+   "title": "Recurrent pregnancy loss in a case of Müllerian duct anomaly U2bC2V1 and fallopian tube cyst - a case report.",
+   "journal": "JBRA assisted reproduction",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42937229/"
+  },
+  {
+   "date": "2026 Oct 26",
+   "pmid": "42937228",
+   "title": "Endometriosis in IVF/ICSI: Clinical Outcomes, Cumulative Live Birth, and a Pragmatic Narrative Review for Patient Counseling and Management.",
+   "journal": "JBRA assisted reproduction",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42937228/"
+  },
+  {
+   "date": "2026 Dec",
+   "pmid": "42936822",
+   "title": "Adherence to the Mediterranean diet and female sexual function: a scoping review.",
+   "journal": "Sexual medicine",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42936822/"
+  },
+  {
+   "date": "2026 Nov 1",
+   "pmid": "42934909",
+   "title": "Female infertility in the 21st century.",
+   "journal": "JAAPA : official journal of the American Academy of Physician Assistants",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42934909/"
+  },
+  {
+   "date": "2026",
+   "pmid": "42932320",
+   "title": "Impact of broadly targeted enhanced recovery after surgery protocols in hysterectomy versus other gynecologic surgeries.",
+   "journal": "PloS one",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42932320/"
+  },
+  {
+   "date": "2026 Oct 31",
+   "pmid": "42929462",
+   "title": "Persistent Pelvic Adhesions and Fibrotic Remodeling Following Ectopic Lesion Ablation in a Mouse Model of Endometriosis.",
+   "journal": "FASEB journal : official publication of the Federation of American Societies for Experimental Biology",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42929462/"
+  },
+  {
+   "date": "2026 Nov-Dec",
+   "pmid": "42923893",
+   "title": "Emerging mechanism-driven therapies for endometriosis: From GnRH antagonists to microbiome and device-based strategies (Review).",
+   "journal": "Medicine international",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42923893/"
+  },
+  {
+   "date": "2026 Nov",
+   "pmid": "42898086",
+   "title": "Food and dietary supplement expenditures associated with dietary self-management among women with endometriosis: A cross-sectional study in Hungary.",
+   "journal": "Preventive medicine reports",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42898086/"
+  },
+  {
+   "date": "2026 Oct 30",
    "pmid": "42895771",
    "title": "Absorption, distribution, metabolism, and excretion of linzagolix after a single oral dose in rats and monkeys.",
    "journal": "Xenobiotica; the fate of foreign compounds in biological systems",
    "url": "https://pubmed.ncbi.nlm.nih.gov/42895771/"
   },
   {
-   "date": "2026 Oct 19",
-   "pmid": "42895300",
-   "title": "From organoids to assembloids: modeling tissue crosstalk in female reproductive biology and disease.",
-   "journal": "Molecular human reproduction",
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42895300/"
+   "date": "2026 Nov",
+   "pmid": "42887272",
+   "title": "Endometriosis first diagnosed after menopause: A prospective analysis of the Nurses' Health Study II cohort.",
+   "journal": "Maturitas",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42887272/"
   },
   {
-   "date": "2026 Oct 23",
-   "pmid": "42556820",
-   "title": "Endometriosis as a cardiovascular risk enhancer.",
-   "journal": "European heart journal",
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42556820/"
+   "date": "2026 Nov",
+   "pmid": "42879296",
+   "title": "Comprehensive Imaging Review of the Ureter.",
+   "journal": "Radiographics : a review publication of the Radiological Society of North America, Inc",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42879296/"
   },
   {
-   "date": "2026 Oct 22",
-   "pmid": "41124082",
-   "title": "It's not all in the name-how the misnomer 'endometriosis' stifles understanding and research.",
-   "journal": "Postgraduate medical journal",
-   "url": "https://pubmed.ncbi.nlm.nih.gov/41124082/"
+   "date": "2026 Nov",
+   "pmid": "42853081",
+   "title": "Validation of a Salivary miRNA Signature of Endometriosis - Interim Data.",
+   "journal": "NEJM evidence",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42853081/"
+  },
+  {
+   "date": "2026 Nov",
+   "pmid": "42838882",
+   "title": "State of the art imaging for endometriosis and adenomyosis.",
+   "journal": "Clinical radiology",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42838882/"
+  },
+  {
+   "date": "2026 Nov",
+   "pmid": "42835858",
+   "title": "Establishment of pathology-validated immortalized patient-derived ovarian endometriosis epithelial cell line.",
+   "journal": "Biomedical reports",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42835858/"
+  },
+  {
+   "date": "2026 Nov-Dec",
+   "pmid": "42814108",
+   "title": "Endometriosis in Transgender and Gender-Diverse People: A Mixed-Methods Study.",
+   "journal": "LGBT health",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42814108/"
+  },
+  {
+   "date": "2026 Nov",
+   "pmid": "42807209",
+   "title": "Paraurethral Endometrioid Carcinoma Arising From Ectopic Endometriosis: A Case Report.",
+   "journal": "IJU case reports",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42807209/"
+  },
+  {
+   "date": "2026 Nov",
+   "pmid": "42788350",
+   "title": "Research progress on the role of IL‑37 in gynecological and obstetrics‑related diseases (Review).",
+   "journal": "International journal of molecular medicine",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42788350/"
+  },
+  {
+   "date": "2026 Nov",
+   "pmid": "42778111",
+   "title": "Arimoclomol-loaded Pluronic F127 nanomicelles in experimental endometriosis: drug incorporation, in vitro release, and early morphological and histological responses.",
+   "journal": "European journal of pharmaceutics and biopharmaceutics : official journal of Arbeitsgemeinschaft fur Pharmazeutische Verfahrenstechnik e.V",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42778111/"
+  },
+  {
+   "date": "2026 Nov 1",
+   "pmid": "42762962",
+   "title": "Endometriosis from initiation to innovation: Immune microenvironments, clonal lesion biology, and the emerging therapeutic pipeline.",
+   "journal": "Cancer letters",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42762962/"
+  },
+  {
+   "date": "2026 Nov",
+   "pmid": "42762854",
+   "title": "Ovarian response to controlled ovarian stimulation for medical fertility preservation: A retrospective comparison of oncological and benign indications.",
+   "journal": "Journal of gynecology obstetrics and human reproduction",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42762854/"
+  },
+  {
+   "date": "2026 Nov",
+   "pmid": "42759694",
+   "title": "Mediterranean diet adherence and endometriosis symptoms: implications for nutritional management.",
+   "journal": "Journal of gynecology obstetrics and human reproduction",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42759694/"
+  },
+  {
+   "date": "2026 Nov",
+   "pmid": "42731417",
+   "title": "Compartment-specific inflammation-metabolism remodeling across eutopic and ectopic endometriosis tissues with cross-context evaluation in TCGA-UCEC.",
+   "journal": "Translational oncology",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42731417/"
+  },
+  {
+   "date": "2026 Nov",
+   "pmid": "42730566",
+   "title": "The new WHO infertility guideline: A universal right to equitable, evidence-based fertility care.",
+   "journal": "International journal of gynaecology and obstetrics: the official organ of the International Federation of Gynaecology and Obstetrics",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42730566/"
+  },
+  {
+   "date": "2026 Nov",
+   "pmid": "42722072",
+   "title": "If we accept NOSE trans-anal colectomy, why not consider disc excision with bowel suturing for deep endometriotic nodules larger than 3cm?",
+   "journal": "Journal of gynecology obstetrics and human reproduction",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42722072/"
+  },
+  {
+   "date": "2026 Nov",
+   "pmid": "42692407",
+   "title": "Real-world effectiveness and tolerability of dienogest in patients with endometriosis: a cross-sectional patient-reported-study.",
+   "journal": "Journal of gynecology obstetrics and human reproduction",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42692407/"
+  },
+  {
+   "date": "2026 Nov",
+   "pmid": "42686058",
+   "title": "Vaginal sclerotherapy for endometrioma: A retrospective study on feasibility and impact on fertility.",
+   "journal": "Journal of gynecology obstetrics and human reproduction",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42686058/"
+  },
+  {
+   "date": "2026 Nov",
+   "pmid": "42641507",
+   "title": "Pyruvate carboxylase promotes progression of endometriosis by activating the AKT pathway.",
+   "journal": "Reproductive biomedicine online",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42641507/"
+  },
+  {
+   "date": "2026 Nov 1",
+   "pmid": "42640595",
+   "title": "Targeting Imaging Modality in the Diagnosis of Endometriosis: 68 Ga-FAPI-04 PET/CT.",
+   "journal": "Clinical nuclear medicine",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42640595/"
+  },
+  {
+   "date": "2026 Nov",
+   "pmid": "42633389",
+   "title": "Adolescent dysmenorrhea revealing Herlyn-Werner-Wunderlich syndrome with endometriosis: A radiologic case report.",
+   "journal": "Radiology case reports",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42633389/"
+  },
+  {
+   "date": "2026 Nov",
+   "pmid": "42616347",
+   "title": "A distinct Frequency of Endometrial Stem/Progenitor Cells (EnSCs) in the Ectopic and Eutopic Endometrium of Women with Endometriosis.",
+   "journal": "Stem cell reviews and reports",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42616347/"
+  },
+  {
+   "date": "2026 Nov",
+   "pmid": "42603467",
+   "title": "Intraovarian steroidogenesis in women with endometriosis undergoing IVF.",
+   "journal": "Reproductive biomedicine online",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42603467/"
+  },
+  {
+   "date": "2026 Nov",
+   "pmid": "42595012",
+   "title": "Defining Surgical Success in Endometriosis: A Patient-Centred Pilot Study.",
+   "journal": "Journal of obstetrics and gynaecology Canada : JOGC = Journal d'obstetrique et gynecologie du Canada : JOGC",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42595012/"
+  },
+  {
+   "date": "2026 Nov",
+   "pmid": "42594747",
+   "title": "Unpaired multi-modal multi-label learning for detecting endometriosis signs.",
+   "journal": "Artificial intelligence in medicine",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42594747/"
+  },
+  {
+   "date": "2026 Nov",
+   "pmid": "42575434",
+   "title": "Improving Surgical Planning for Patients with Deep Endometriosis Using Patient-Specific 3-Dimensional Anatomical Models: A Randomized Prospective Trial.",
+   "journal": "Journal of obstetrics and gynaecology Canada : JOGC = Journal d'obstetrique et gynecologie du Canada : JOGC",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42575434/"
+  },
+  {
+   "date": "2026 Nov",
+   "pmid": "42572446",
+   "title": "Phthalate exposure and human reproductive health: an epidemiological review.",
+   "journal": "Drug and chemical toxicology",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42572446/"
+  },
+  {
+   "date": "2026 Nov",
+   "pmid": "42570719",
+   "title": "Decidualized ovarian endometriomas in pregnancy: Proposal of a predictable ultrasound evolution pattern.",
+   "journal": "Journal of gynecology obstetrics and human reproduction",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42570719/"
+  },
+  {
+   "date": "2026 Nov",
+   "pmid": "42556527",
+   "title": "Long-term clinical effectiveness of endovenous interventions for pelvic venous disorders.",
+   "journal": "Journal of vascular surgery. Venous and lymphatic disorders",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42556527/"
+  },
+  {
+   "date": "2026 Nov",
+   "pmid": "42489868",
+   "title": "Longitudinal trends in general, central, and visceral adiposity indices among women with endometriosis: a population-based study.",
+   "journal": "Journal of endocrinological investigation",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42489868/"
+  },
+  {
+   "date": "2026 Nov",
+   "pmid": "42483830",
+   "title": "Effect of pain management, supervised exercise, and pelvic floor muscle training on sexual function in women with endometriosis: A randomized controlled trial.",
+   "journal": "Acta obstetricia et gynecologica Scandinavica",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42483830/"
+  },
+  {
+   "date": "2026 Nov",
+   "pmid": "42419498",
+   "title": "Acute radiating gluteal pain caused by obturator internus muscle endometriosis.",
+   "journal": "American journal of obstetrics and gynecology",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42419498/"
+  },
+  {
+   "date": "2026 Nov",
+   "pmid": "42409154",
+   "title": "Standard vs lower pressure pneumoperitoneum in laparoscopic gynecologic surgery: a randomized controlled trial.",
+   "journal": "American journal of obstetrics and gynecology",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42409154/"
+  },
+  {
+   "date": "2026 Nov",
+   "pmid": "42401402",
+   "title": "The microbiome-gut-gonad axis: How microbial metabolites orchestrate reproductive physiology, pathology, and therapy.",
+   "journal": "The Journal of steroid biochemistry and molecular biology",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42401402/"
+  },
+  {
+   "date": "2026 Nov",
+   "pmid": "42249739",
+   "title": "Surgically confirmed severe endometriosis is associated with lower risk of steatotic liver disease: Evidence of estrogen-linked hepatic-reproductive crosstalk.",
+   "journal": "International journal of gynaecology and obstetrics: the official organ of the International Federation of Gynaecology and Obstetrics",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42249739/"
+  },
+  {
+   "date": "2026 Nov",
+   "pmid": "42210872",
+   "title": "Comparative outcomes of abdominal wall endometriosis surgery: Specialized endometriosis surgeons versus general surgical teams.",
+   "journal": "International journal of gynaecology and obstetrics: the official organ of the International Federation of Gynaecology and Obstetrics",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42210872/"
+  },
+  {
+   "date": "2026 Nov",
+   "pmid": "42200541",
+   "title": "Efficacy and safety of laparoscopic nerve decompression for neuropathic sciatic pain due to endometriosis: A systematic review and meta-analysis.",
+   "journal": "International journal of gynaecology and obstetrics: the official organ of the International Federation of Gynaecology and Obstetrics",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42200541/"
+  },
+  {
+   "date": "2026 Nov",
+   "pmid": "42104845",
+   "title": "Applied surgical anatomical approach to pudendal nerve: Step-by-step key neurovascular structures for pelvic nerve surgery.",
+   "journal": "International journal of gynaecology and obstetrics: the official organ of the International Federation of Gynaecology and Obstetrics",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42104845/"
   }
  ]
 }
