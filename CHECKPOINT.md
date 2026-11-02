@@ -16,7 +16,7 @@
 > owner tags below are historical; treat open items as Galahad's. The human
 > (wckdboy) remains final reviewer.
 
-**Last updated:** 2026-10-30 (Galahad, M2 digest) · **Maintainer:** Galahad (sole agent)
+**Last updated:** 2026-11-02 (Galahad, security-scan) · **Maintainer:** Galahad (sole agent)
 
 ---
 
@@ -46,6 +46,7 @@
 ## 📋 Horizon — tasks needing focus
 
 ### 🔴 High priority
+- [ ] **security-scan gitleaks license break (CLAIMED 2026-11-02)** — `gitleaks/gitleaks-action@v2` fails on this organization with "License key is required", so the PII scan and RO-Crate freshness steps in the same job never run. Replace the action with the checksum-pinned OSS CLI over the full fetched history. Do not loosen the later steps. *Galahad*
 - [x] **Research packet 2026-09-14 (LANDED)** — agenda + registry re-check + literature packet + discovery shortlist + lean 0.1.2 compare + partner-ready lab protocols. Canonical knowledge pages updated (sirolimus / mrgprx2-pain / ferroptosis); `_staging` deleted. No M3 status upgrades. Human review still required before merge to `main` (patient-facing research content). *Galahad*
 - [ ] **No-GPU partner asks (CLAIMED 2026-09-14)** — attach `docs/research/lab-protocols/02-mrgprx2-ihc-mast-cell-stratification.md` and `01-sirolimus-mtor-fkbp4-pr.md` to T7 outreach (human step). Ferroptosis selectivity spec is third. DoD: partner conversation started (anonymized note) or explicit defer. *Galahad — outreach = human*
 - [x] **Site split — audit re-scope (DONE 2026-09-12)** — `audit_site.py` + `.github/workflows/site-audit.yml` no longer serve/audit leftover `docs/*.html` as the product UI (Playwright viewport/a11y of static pages retired). CI now validates the live-app build contract locally (PR-relevant) and smokes https://openendo.org key routes. *Galahad*
