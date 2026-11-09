@@ -1,104 +1,115 @@
 {
- "updated": "2026-11-02",
+ "updated": "2026-11-09",
  "trials": [
   {
-   "nct_id": "NCT07215130",
-   "title": "Selective Removal of Endometriotic Lesions Using CUSA Clarity in Ovarian Endometriomas",
+   "nct_id": "NCT07776574",
+   "title": "Deep Endometriosis Affecting the Urogenital Tract: Long-term Outcomes and Impact on Renal Function",
    "status": "RECRUITING",
    "phase": "N/A",
-   "sponsor": "Kanazawa University",
+   "sponsor": "Charles University, Czech Republic",
    "countries": [
-    "Japan"
+    "Czechia"
    ],
-   "url": "https://clinicaltrials.gov/study/NCT07215130"
+   "url": "https://clinicaltrials.gov/study/NCT07776574"
   },
   {
-   "nct_id": "NCT07006987",
-   "title": "HerResolve™ in Detecting the Presence of Endometriosis Among Symptomatic Women",
+   "nct_id": "NCT07053982",
+   "title": "Use of a New Diagnostic Tool in the Detection and Characterization of Endometriosis Lesions",
    "status": "RECRUITING",
    "phase": "NA",
-   "sponsor": "Chinese University of Hong Kong",
-   "countries": [
-    "China"
-   ],
-   "url": "https://clinicaltrials.gov/study/NCT07006987"
-  },
-  {
-   "nct_id": "NCT06847685",
-   "title": "Mechanisms of Uterine Fluid Absorption During Early Pregnancy ( ELF Study)",
-   "status": "RECRUITING",
-   "phase": "N/A",
-   "sponsor": "Johns Hopkins University",
-   "countries": [
-    "United States"
-   ],
-   "url": "https://clinicaltrials.gov/study/NCT06847685"
-  },
-  {
-   "nct_id": "NCT07523308",
-   "title": "Efficacy and Safety of Intra-operative Dual Laparoscopy and Neo-rectoscopy for Bowel Endometriosis: The LUMEN-01 Trial",
-   "status": "RECRUITING",
-   "phase": "NA",
-   "sponsor": "Obstetrics & Gynecology Hospital of Fudan University",
-   "countries": [
-    "China"
-   ],
-   "url": "https://clinicaltrials.gov/study/NCT07523308"
-  },
-  {
-   "nct_id": "NCT07240363",
-   "title": "First Line Surgery or First Line Fertility Treatment Using Assisted Reproductive Technologies in Patients With Advanced Endometriosis",
-   "status": "RECRUITING",
-   "phase": "NA",
-   "sponsor": "Karolinska Institutet",
-   "countries": [
-    "Sweden"
-   ],
-   "url": "https://clinicaltrials.gov/study/NCT07240363"
-  },
-  {
-   "nct_id": "NCT06266897",
-   "title": "A Study on the Correlation Between Endometriosis and Intra-tissue Microbiota",
-   "status": "RECRUITING",
-   "phase": "N/A",
-   "sponsor": "Zhujiang Hospital",
-   "countries": [
-    "China"
-   ],
-   "url": "https://clinicaltrials.gov/study/NCT06266897"
-  },
-  {
-   "nct_id": "NCT06414083",
-   "title": "Histologic Comparison of Ablative Techniques for Endometriosis",
-   "status": "RECRUITING",
-   "phase": "NA",
-   "sponsor": "TriHealth Inc.",
-   "countries": [
-    "United States"
-   ],
-   "url": "https://clinicaltrials.gov/study/NCT06414083"
-  },
-  {
-   "nct_id": "NCT06974773",
-   "title": "Remote Electrical Stimulation as a Long-term Intervention for Endometriosis Flare Ups",
-   "status": "RECRUITING",
-   "phase": "NA",
-   "sponsor": "Samphire Group, Inc.",
-   "countries": [
-    "United States"
-   ],
-   "url": "https://clinicaltrials.gov/study/NCT06974773"
-  },
-  {
-   "nct_id": "NCT05779462",
-   "title": "ENDOMETRIOSIS - MRI",
-   "status": "RECRUITING",
-   "phase": "N/A",
-   "sponsor": "University Hospital, Lille",
+   "sponsor": "University Hospital, Toulouse",
    "countries": [
     "France"
    ],
-   "url": "https://clinicaltrials.gov/study/NCT05779462"
+   "url": "https://clinicaltrials.gov/study/NCT07053982"
+  },
+  {
+   "nct_id": "NCT07179419",
+   "title": "Evaluation of the Long-term Therapeutic Effect of High-Intensity Focused Ultrasound (HIFU) Treatment in Patients With Rectal Endometriosis",
+   "status": "RECRUITING",
+   "phase": "N/A",
+   "sponsor": "EDAP TMS S.A.",
+   "countries": [
+    "France"
+   ],
+   "url": "https://clinicaltrials.gov/study/NCT07179419"
+  },
+  {
+   "nct_id": "NCT07471373",
+   "title": "Pesticides and Infertility: Oxidative Stress Via Circulating Cell-free DNA and Gut/Genital Microbiome Signatures in Women With Endometriosis",
+   "status": "RECRUITING",
+   "phase": "NA",
+   "sponsor": "Centre Hospitalier Universitaire, Amiens",
+   "countries": [
+    "France"
+   ],
+   "url": "https://clinicaltrials.gov/study/NCT07471373"
+  },
+  {
+   "nct_id": "NCT07590895",
+   "title": "Effect of FODMAP Diet on Pain, Quality of Life, and Sexual Function in Women With Pelvic Endometriosis and Gastrointestinal Symptoms",
+   "status": "RECRUITING",
+   "phase": "NA",
+   "sponsor": "Fondazione IRCCS Ca' Granda, Ospedale Maggiore Policlinico",
+   "countries": [
+    "Italy"
+   ],
+   "url": "https://clinicaltrials.gov/study/NCT07590895"
+  },
+  {
+   "nct_id": "NCT07469007",
+   "title": "Impact of Surgery for Deep Posterior Endometriosis on Ovarian Reserve (ENDORO)",
+   "status": "RECRUITING",
+   "phase": "NA",
+   "sponsor": "GCS Ramsay Santé pour l'Enseignement et la Recherche",
+   "countries": [
+    "France"
+   ],
+   "url": "https://clinicaltrials.gov/study/NCT07469007"
+  },
+  {
+   "nct_id": "NCT05339451",
+   "title": "Blood and Tissue Markers for Improving Diagnosis and Prognosis of Endometriosis. (ENDOBIO)",
+   "status": "RECRUITING",
+   "phase": "N/A",
+   "sponsor": "Region Stockholm",
+   "countries": [
+    "Sweden"
+   ],
+   "url": "https://clinicaltrials.gov/study/NCT05339451"
+  },
+  {
+   "nct_id": "NCT06161805",
+   "title": "Esketamine as Treatment for Chronic Pain Due to Endometriosis: a RCT Study",
+   "status": "RECRUITING",
+   "phase": "PHASE3",
+   "sponsor": "Reinier de Graaf Groep",
+   "countries": [
+    "Netherlands"
+   ],
+   "url": "https://clinicaltrials.gov/study/NCT06161805"
+  },
+  {
+   "nct_id": "NCT03622983",
+   "title": "Cohort of Patients With Pelvic Gynecological Cancer: Constitution of a Collection of Biological Samples With Radioclinical Characterization",
+   "status": "RECRUITING",
+   "phase": "N/A",
+   "sponsor": "Centre Hospitalier Intercommunal Creteil",
+   "countries": [
+    "France"
+   ],
+   "url": "https://clinicaltrials.gov/study/NCT03622983"
+  },
+  {
+   "nct_id": "NCT06245512",
+   "title": "Diagnostic and Prognostic Markers of Endometriosis in Menstrual Blood",
+   "status": "RECRUITING",
+   "phase": "N/A",
+   "sponsor": "Institut National de la Santé Et de la Recherche Médicale, France",
+   "countries": [
+    "France"
+   ],
+   "url": "https://clinicaltrials.gov/study/NCT06245512"
   },
   {
    "nct_id": "NCT06024109",
@@ -113,92 +124,26 @@
    "url": "https://clinicaltrials.gov/study/NCT06024109"
   },
   {
-   "nct_id": "NCT06559852",
-   "title": "The Impact of Yoga on Endometriosis-Related Pain",
+   "nct_id": "NCT06331676",
+   "title": "Developing a Complex ex Vivo Endometrial Tissue Model to Improve Endometriosis Care",
    "status": "RECRUITING",
    "phase": "NA",
-   "sponsor": "Milton S. Hershey Medical Center",
-   "countries": [
-    "United States"
-   ],
-   "url": "https://clinicaltrials.gov/study/NCT06559852"
-  },
-  {
-   "nct_id": "NCT04481321",
-   "title": "Clinical and Molecular Study of Endometriosis and Adenomyosis",
-   "status": "RECRUITING",
-   "phase": "N/A",
-   "sponsor": "Assistance Publique - Hôpitaux de Paris",
+   "sponsor": "Hospices Civils de Lyon",
    "countries": [
     "France"
    ],
-   "url": "https://clinicaltrials.gov/study/NCT04481321"
+   "url": "https://clinicaltrials.gov/study/NCT06331676"
   },
   {
-   "nct_id": "NCT05824819",
-   "title": "Endometriosis and Peritoneal Dysbiosis",
+   "nct_id": "NCT06776536",
+   "title": "Evaluation of Rectal Infiltration Depth and Length in Bowel Involvement of Deep Infiltrative Endometriosis (DIE) Using Intraoperative Transrectal Ultrasound (TRUS)",
    "status": "RECRUITING",
    "phase": "NA",
-   "sponsor": "Jagiellonian University",
+   "sponsor": "Başakşehir Çam & Sakura City Hospital",
    "countries": [
-    "Poland"
+    "Turkey (Türkiye)"
    ],
-   "url": "https://clinicaltrials.gov/study/NCT05824819"
-  },
-  {
-   "nct_id": "NCT07393295",
-   "title": "Efficacy and Tolerability of TENS in Endometriosis-related Pain",
-   "status": "RECRUITING",
-   "phase": "NA",
-   "sponsor": "Monath Electronic",
-   "countries": [
-    "France"
-   ],
-   "url": "https://clinicaltrials.gov/study/NCT07393295"
-  },
-  {
-   "nct_id": "NCT07090096",
-   "title": "A Randomized Controlled Trial of a Nutritional Intervention for Endometriosis",
-   "status": "RECRUITING",
-   "phase": "NA",
-   "sponsor": "University of California, San Diego",
-   "countries": [
-    "United States"
-   ],
-   "url": "https://clinicaltrials.gov/study/NCT07090096"
-  },
-  {
-   "nct_id": "NCT07875062",
-   "title": "Trial Evaluating Nutritional Fiber in Digestive Symptoms of Endometriosis",
-   "status": "RECRUITING",
-   "phase": "NA",
-   "sponsor": "LOAM Science",
-   "countries": [
-    "United States"
-   ],
-   "url": "https://clinicaltrials.gov/study/NCT07875062"
-  },
-  {
-   "nct_id": "NCT07590895",
-   "title": "Effect of FODMAP Diet on Pain, Quality of Life, and Sexual Function in Women With Pelvic Endometriosis and Gastrointestinal Symptoms",
-   "status": "RECRUITING",
-   "phase": "NA",
-   "sponsor": "Fondazione IRCCS Ca' Granda, Ospedale Maggiore Policlinico",
-   "countries": [
-    "Italy"
-   ],
-   "url": "https://clinicaltrials.gov/study/NCT07590895"
-  },
-  {
-   "nct_id": "NCT06792318",
-   "title": "The Role of FAPI PET-CT in Diagnosing Endometriosis",
-   "status": "RECRUITING",
-   "phase": "NA",
-   "sponsor": "Ziv Hospital",
-   "countries": [
-    "Israel"
-   ],
-   "url": "https://clinicaltrials.gov/study/NCT06792318"
+   "url": "https://clinicaltrials.gov/study/NCT06776536"
   },
   {
    "nct_id": "NCT06821217",
@@ -212,324 +157,15 @@
    "url": "https://clinicaltrials.gov/study/NCT06821217"
   },
   {
-   "nct_id": "NCT06331676",
-   "title": "Developing a Complex ex Vivo Endometrial Tissue Model to Improve Endometriosis Care",
+   "nct_id": "NCT06792318",
+   "title": "The Role of FAPI PET-CT in Diagnosing Endometriosis",
    "status": "RECRUITING",
    "phase": "NA",
-   "sponsor": "Hospices Civils de Lyon",
+   "sponsor": "Ziv Hospital",
    "countries": [
-    "France"
+    "Israel"
    ],
-   "url": "https://clinicaltrials.gov/study/NCT06331676"
-  },
-  {
-   "nct_id": "NCT06549985",
-   "title": "Interdisciplinary Group Care for the Treatment of Endometriosis-associated Pain",
-   "status": "RECRUITING",
-   "phase": "NA",
-   "sponsor": "Washington University School of Medicine",
-   "countries": [
-    "United States"
-   ],
-   "url": "https://clinicaltrials.gov/study/NCT06549985"
-  },
-  {
-   "nct_id": "NCT06997809",
-   "title": "ENDometriosis: Evaluation of Detection and Need for ALGOlogic Care Before Surgery",
-   "status": "RECRUITING",
-   "phase": "NA",
-   "sponsor": "University Hospital, Limoges",
-   "countries": [
-    "France"
-   ],
-   "url": "https://clinicaltrials.gov/study/NCT06997809"
-  },
-  {
-   "nct_id": "NCT05698212",
-   "title": "Proof of Concept Study to Eval MetriDx Lab-developed Test to Identify Endometriosis-specific Bio Markers",
-   "status": "RECRUITING",
-   "phase": "PHASE2",
-   "sponsor": "Hera Biotech, Inc.",
-   "countries": [
-    "United States"
-   ],
-   "url": "https://clinicaltrials.gov/study/NCT05698212"
-  },
-  {
-   "nct_id": "NCT07560852",
-   "title": "Impact of Endotest on Patients' Quality of Life: a Cohort Study",
-   "status": "RECRUITING",
-   "phase": "N/A",
-   "sponsor": "ZIWIG",
-   "countries": [
-    "France"
-   ],
-   "url": "https://clinicaltrials.gov/study/NCT07560852"
-  },
-  {
-   "nct_id": "NCT07313345",
-   "title": "Predicting the Pain Outcome of Surgery for Endometriosis",
-   "status": "RECRUITING",
-   "phase": "N/A",
-   "sponsor": "University of Oxford",
-   "countries": [
-    "United Kingdom"
-   ],
-   "url": "https://clinicaltrials.gov/study/NCT07313345"
-  },
-  {
-   "nct_id": "NCT06153303",
-   "title": "Internet-based ACT for Endometriosis and Chronic Pain",
-   "status": "RECRUITING",
-   "phase": "NA",
-   "sponsor": "Skane University Hospital",
-   "countries": [
-    "Sweden"
-   ],
-   "url": "https://clinicaltrials.gov/study/NCT06153303"
-  },
-  {
-   "nct_id": "NCT07205614",
-   "title": "The Good Pain Consultation in Endometriosis.",
-   "status": "RECRUITING",
-   "phase": "NA",
-   "sponsor": "Sorlandet Hospital HF",
-   "countries": [
-    "Norway"
-   ],
-   "url": "https://clinicaltrials.gov/study/NCT07205614"
-  },
-  {
-   "nct_id": "NCT04356664",
-   "title": "Benefit of GnRH Agonist Before Frozen Embryo Transfer in Patients With Endometriosis and/or Adenomyosis",
-   "status": "RECRUITING",
-   "phase": "PHASE2/PHASE3",
-   "sponsor": "Hopital Foch",
-   "countries": [
-    "France"
-   ],
-   "url": "https://clinicaltrials.gov/study/NCT04356664"
-  },
-  {
-   "nct_id": "NCT07553676",
-   "title": "Multicenter Study for Diagnostic Validation of a Laboratory Test for the Diagnosis of Endometriosis",
-   "status": "RECRUITING",
-   "phase": "N/A",
-   "sponsor": "Diamens FlexCo",
-   "countries": [
-    "Austria",
-    "Germany"
-   ],
-   "url": "https://clinicaltrials.gov/study/NCT07553676"
-  },
-  {
-   "nct_id": "NCT07472842",
-   "title": "Study on the Outcomes of Patients Treated in Gynecological Emergency Departments for Pelvic Endometriosis or Suspected Pelvic Endometriosis",
-   "status": "RECRUITING",
-   "phase": "NA",
-   "sponsor": "Centre Hospitalier Intercommunal Creteil",
-   "countries": [
-    "France"
-   ],
-   "url": "https://clinicaltrials.gov/study/NCT07472842"
-  },
-  {
-   "nct_id": "NCT06795243",
-   "title": "Efficacy of Physical Therapy Treatment in Endometriosis and Its Relationship to Adherence Rates.",
-   "status": "RECRUITING",
-   "phase": "NA",
-   "sponsor": "University of Seville",
-   "countries": [
-    "Spain"
-   ],
-   "url": "https://clinicaltrials.gov/study/NCT06795243"
-  },
-  {
-   "nct_id": "NCT06211569",
-   "title": "Study of the Prevalence of Endometriosis and Adenomyosis",
-   "status": "RECRUITING",
-   "phase": "N/A",
-   "sponsor": "Assistance Publique - Hôpitaux de Paris",
-   "countries": [
-    "France"
-   ],
-   "url": "https://clinicaltrials.gov/study/NCT06211569"
-  },
-  {
-   "nct_id": "NCT05726786",
-   "title": "The Role of Preoperative Immunonutrition on Morbidity and Immune Response After Cystectomy (INCyst Trial)",
-   "status": "RECRUITING",
-   "phase": "PHASE3",
-   "sponsor": "Centre Hospitalier Universitaire Vaudois",
-   "countries": [
-    "Switzerland"
-   ],
-   "url": "https://clinicaltrials.gov/study/NCT05726786"
-  },
-  {
-   "nct_id": "NCT07864883",
-   "title": "3D Modeling of Deep Endometriosis From Pelvic MRI",
-   "status": "RECRUITING",
-   "phase": "N/A",
-   "sponsor": "University Hospital, Strasbourg, France",
-   "countries": [
-    "France"
-   ],
-   "url": "https://clinicaltrials.gov/study/NCT07864883"
-  },
-  {
-   "nct_id": "NCT07164183",
-   "title": "Clinical Study to Compare Efficacy and Safety of Indinol Forto® 200 mg Capsules and Visanne 2 mg Tablets in Treatment of Endometriosis",
-   "status": "RECRUITING",
-   "phase": "PHASE3",
-   "sponsor": "Alcea",
-   "countries": [
-    "Russia"
-   ],
-   "url": "https://clinicaltrials.gov/study/NCT07164183"
-  },
-  {
-   "nct_id": "NCT06963177",
-   "title": "A Phase IIa Clinical Study to Assess the Efficacy and Safety of GenSci048 in Patients With Moderate to Severe Endometriosis-Associated Pain",
-   "status": "RECRUITING",
-   "phase": "PHASE2",
-   "sponsor": "Changchun GeneScience Pharmaceutical Co., Ltd.",
-   "countries": [
-    "China"
-   ],
-   "url": "https://clinicaltrials.gov/study/NCT06963177"
-  },
-  {
-   "nct_id": "NCT06671639",
-   "title": "Stanford Program to Accelerate Robotic Children's Surgery",
-   "status": "RECRUITING",
-   "phase": "NA",
-   "sponsor": "Stanford University",
-   "countries": [
-    "United States"
-   ],
-   "url": "https://clinicaltrials.gov/study/NCT06671639"
-  },
-  {
-   "nct_id": "NCT07876648",
-   "title": "Prospective Trial of [18F]AlF-FAPI-74 for PET Imaging of Fibroblast Activation Protein in Patients With Endometriosis",
-   "status": "RECRUITING",
-   "phase": "NA",
-   "sponsor": "Universitaire Ziekenhuizen KU Leuven",
-   "countries": [
-    "Belgium"
-   ],
-   "url": "https://clinicaltrials.gov/study/NCT07876648"
-  },
-  {
-   "nct_id": "NCT06799767",
-   "title": "Radiological Diagnostics in Patients With Deep Endometriosis",
-   "status": "RECRUITING",
-   "phase": "N/A",
-   "sponsor": "IRCCS Azienda Ospedaliero-Universitaria di Bologna",
-   "countries": [
-    "Italy"
-   ],
-   "url": "https://clinicaltrials.gov/study/NCT06799767"
-  },
-  {
-   "nct_id": "NCT05978414",
-   "title": "Functional Links Between the Temporomandibular Joint and the Pelvis in Gynecology",
-   "status": "RECRUITING",
-   "phase": "NA",
-   "sponsor": "Poznan University of Physical Education",
-   "countries": [
-    "Poland"
-   ],
-   "url": "https://clinicaltrials.gov/study/NCT05978414"
-  },
-  {
-   "nct_id": "NCT06439524",
-   "title": "The Effect of Medical Management Following Excisional Surgery for Endometriosis: A Randomized Controlled Trial",
-   "status": "RECRUITING",
-   "phase": "PHASE3",
-   "sponsor": "Main Line Health",
-   "countries": [
-    "United States"
-   ],
-   "url": "https://clinicaltrials.gov/study/NCT06439524"
-  },
-  {
-   "nct_id": "NCT07810920",
-   "title": "Artificial Intelligence Into Ultrasound Diagnostics in Reproductive Medicine",
-   "status": "RECRUITING",
-   "phase": "N/A",
-   "sponsor": "Semmelweis University",
-   "countries": [
-    "Hungary"
-   ],
-   "url": "https://clinicaltrials.gov/study/NCT07810920"
-  },
-  {
-   "nct_id": "NCT05862272",
-   "title": "A Phase 3B Study to Evaluate Bone Mineral Density With Long-Term Use of Relugolix Combination Tablet in Women With Uterine Fibroids or Endometriosis",
-   "status": "RECRUITING",
-   "phase": "PHASE3",
-   "sponsor": "Sumitomo Pharma Switzerland GmbH",
-   "countries": [
-    "United States"
-   ],
-   "url": "https://clinicaltrials.gov/study/NCT05862272"
-  },
-  {
-   "nct_id": "NCT07179419",
-   "title": "Evaluation of the Long-term Therapeutic Effect of High-Intensity Focused Ultrasound (HIFU) Treatment in Patients With Rectal Endometriosis",
-   "status": "RECRUITING",
-   "phase": "N/A",
-   "sponsor": "EDAP TMS S.A.",
-   "countries": [
-    "France"
-   ],
-   "url": "https://clinicaltrials.gov/study/NCT07179419"
-  },
-  {
-   "nct_id": "NCT04177511",
-   "title": "Treatment of Chronic Pelvic Pain Due to Endometriosis by Transcutaneous Auricular Vagus Nerve Stimulation",
-   "status": "RECRUITING",
-   "phase": "NA",
-   "sponsor": "Hopital Foch",
-   "countries": [
-    "France"
-   ],
-   "url": "https://clinicaltrials.gov/study/NCT04177511"
-  },
-  {
-   "nct_id": "NCT07318688",
-   "title": "Evaluate the Efficacy and Safety of HMI-115 in Women With Moderate to Severe Endometriosis-associated Pain",
-   "status": "RECRUITING",
-   "phase": "PHASE3",
-   "sponsor": "Hope Medicine (Nanjing) Co., Ltd",
-   "countries": [
-    "China"
-   ],
-   "url": "https://clinicaltrials.gov/study/NCT07318688"
-  },
-  {
-   "nct_id": "NCT07860203",
-   "title": "Stellate Ganglion Block and Dexmedetomidine for Postoperative Sleep in Women Undergoing Laparoscopic Gynecologic Surgery",
-   "status": "RECRUITING",
-   "phase": "NA",
-   "sponsor": "Catherin Zhang",
-   "countries": [
-    "China"
-   ],
-   "url": "https://clinicaltrials.gov/study/NCT07860203"
-  },
-  {
-   "nct_id": "NCT01946698",
-   "title": "Endometriosis, Food Consumption and Fertility",
-   "status": "RECRUITING",
-   "phase": "N/A",
-   "sponsor": "University of Aarhus",
-   "countries": [
-    "Denmark"
-   ],
-   "url": "https://clinicaltrials.gov/study/NCT01946698"
+   "url": "https://clinicaltrials.gov/study/NCT06792318"
   },
   {
    "nct_id": "NCT06929364",
@@ -543,136 +179,125 @@
    "url": "https://clinicaltrials.gov/study/NCT06929364"
   },
   {
-   "nct_id": "NCT06245512",
-   "title": "Diagnostic and Prognostic Markers of Endometriosis in Menstrual Blood",
+   "nct_id": "NCT07205614",
+   "title": "The Good Pain Consultation in Endometriosis.",
+   "status": "RECRUITING",
+   "phase": "NA",
+   "sponsor": "Sorlandet Hospital HF",
+   "countries": [
+    "Norway"
+   ],
+   "url": "https://clinicaltrials.gov/study/NCT07205614"
+  },
+  {
+   "nct_id": "NCT01946698",
+   "title": "Endometriosis, Food Consumption and Fertility",
    "status": "RECRUITING",
    "phase": "N/A",
-   "sponsor": "Institut National de la Santé Et de la Recherche Médicale, France",
+   "sponsor": "University of Aarhus",
+   "countries": [
+    "Denmark"
+   ],
+   "url": "https://clinicaltrials.gov/study/NCT01946698"
+  },
+  {
+   "nct_id": "NCT03555903",
+   "title": "Quality of Life and Fertility of Patient With Deep Surgical Endometriosis: a Prospective Cohort",
+   "status": "RECRUITING",
+   "phase": "N/A",
+   "sponsor": "Hospices Civils de Lyon",
    "countries": [
     "France"
    ],
-   "url": "https://clinicaltrials.gov/study/NCT06245512"
+   "url": "https://clinicaltrials.gov/study/NCT03555903"
   },
   {
-   "nct_id": "NCT05179109",
-   "title": "Robotic Versus Laparoscopic Surgery for Deep Endometriosis",
+   "nct_id": "NCT05698212",
+   "title": "Proof of Concept Study to Eval MetriDx Lab-developed Test to Identify Endometriosis-specific Bio Markers",
    "status": "RECRUITING",
-   "phase": "NA",
-   "sponsor": "University of Oulu",
-   "countries": [
-    "Finland"
-   ],
-   "url": "https://clinicaltrials.gov/study/NCT05179109"
-  },
-  {
-   "nct_id": "NCT07523997",
-   "title": "Imaging of Endometriosis With Total-body PET-CT (PET-Endo)",
-   "status": "RECRUITING",
-   "phase": "N/A",
-   "sponsor": "University of Edinburgh",
-   "countries": [
-    "United Kingdom"
-   ],
-   "url": "https://clinicaltrials.gov/study/NCT07523997"
-  },
-  {
-   "nct_id": "NCT07696351",
-   "title": "Ultra-Long GnRH-a Pretreatment for FET Outcomes in Patients With Deep Infiltrating Endometriosis",
-   "status": "RECRUITING",
-   "phase": "PHASE4",
-   "sponsor": "Li-jun Ding",
-   "countries": [
-    "China"
-   ],
-   "url": "https://clinicaltrials.gov/study/NCT07696351"
-  },
-  {
-   "nct_id": "NCT06212349",
-   "title": "Therapeutic-educational Physiotherapy on Pain, Physical-functionality and Quality of Life in Women With Endometriosis.",
-   "status": "RECRUITING",
-   "phase": "NA",
-   "sponsor": "University of Valencia",
-   "countries": [
-    "Spain"
-   ],
-   "url": "https://clinicaltrials.gov/study/NCT06212349"
-  },
-  {
-   "nct_id": "NCT07087756",
-   "title": "The Effect of Temporary Ovarian Suspension to the Abdominal Wall During Laparoscopic Endometriosis Surgery for Adhesion Prevention -A Comparative and Prospective Study",
-   "status": "RECRUITING",
-   "phase": "NA",
-   "sponsor": "Carmel Medical Center",
-   "countries": [
-    "Israel"
-   ],
-   "url": "https://clinicaltrials.gov/study/NCT07087756"
-  },
-  {
-   "nct_id": "NCT06991595",
-   "title": "Fertility Limiting Diseases of Pelvic Organs and Their Influence on Receptivity of Endometrial Cavity: Prospective Clinical Trial",
-   "status": "RECRUITING",
-   "phase": "N/A",
-   "sponsor": "Charles University, Czech Republic",
-   "countries": [
-    "Czechia"
-   ],
-   "url": "https://clinicaltrials.gov/study/NCT06991595"
-  },
-  {
-   "nct_id": "NCT07882498",
-   "title": "Postoperative Pain Trajectories After Endometriosis Surgery",
-   "status": "RECRUITING",
-   "phase": "N/A",
-   "sponsor": "Centre Hospitalier Universitaire, Amiens",
-   "countries": [
-    "France"
-   ],
-   "url": "https://clinicaltrials.gov/study/NCT07882498"
-  },
-  {
-   "nct_id": "NCT06502548",
-   "title": "Endometriosis Transcriptomic Cell Atlas",
-   "status": "RECRUITING",
-   "phase": "NA",
-   "sponsor": "University Hospital, Toulouse",
-   "countries": [
-    "France"
-   ],
-   "url": "https://clinicaltrials.gov/study/NCT06502548"
-  },
-  {
-   "nct_id": "NCT07713797",
-   "title": "Biomarkers for Endometriosis",
-   "status": "RECRUITING",
-   "phase": "N/A",
-   "sponsor": "Trio Fertility",
-   "countries": [
-    "Canada"
-   ],
-   "url": "https://clinicaltrials.gov/study/NCT07713797"
-  },
-  {
-   "nct_id": "NCT05245695",
-   "title": "Deep Neural Network Stratification for Use Detecting Endometriosis in Women Affected by Chronic Pelvic Pain (EndoCheck)",
-   "status": "RECRUITING",
-   "phase": "N/A",
-   "sponsor": "Aspira Women's Health",
+   "phase": "PHASE2",
+   "sponsor": "Hera Biotech, Inc.",
    "countries": [
     "United States"
    ],
-   "url": "https://clinicaltrials.gov/study/NCT05245695"
+   "url": "https://clinicaltrials.gov/study/NCT05698212"
   },
   {
-   "nct_id": "NCT06572852",
-   "title": "Next-Generation Endometriosis Diagnostics Through Comprehensive Multi-Dimensional Analysis",
+   "nct_id": "NCT07429773",
+   "title": "Identify a Specific Immune Profile in Patients With Chronic Pelvic Pain Resistant to First-line Treatments by Measuring Th1, Th2, Th17, and Treg Cytokines Produced After Non-specific Functional Cell Stimulation - ImmunoCPP",
+   "status": "RECRUITING",
+   "phase": "NA",
+   "sponsor": "Centre Hospitalier Universitaire de Nice",
+   "countries": [
+    "France"
+   ],
+   "url": "https://clinicaltrials.gov/study/NCT07429773"
+  },
+  {
+   "nct_id": "NCT07693283",
+   "title": "Expression of Target in Endometriotic Lesions",
    "status": "RECRUITING",
    "phase": "N/A",
-   "sponsor": "IRCCS San Raffaele",
+   "sponsor": "Beijing Tsinghua Chang Gung Hospital",
    "countries": [
-    "Italy"
+    "China"
    ],
-   "url": "https://clinicaltrials.gov/study/NCT06572852"
+   "url": "https://clinicaltrials.gov/study/NCT07693283"
+  },
+  {
+   "nct_id": "NCT06543550",
+   "title": "Comparison Between the Effects of Implantable Gestrinone and Oral Dienogest in the Treatment of Endometriosis",
+   "status": "RECRUITING",
+   "phase": "PHASE4",
+   "sponsor": "Bio Meds Pharmaceutica Ltda",
+   "countries": [
+    "Brazil"
+   ],
+   "url": "https://clinicaltrials.gov/study/NCT06543550"
+  },
+  {
+   "nct_id": "NCT04704115",
+   "title": "The Therapy of Large Endometrioma",
+   "status": "RECRUITING",
+   "phase": "N/A",
+   "sponsor": "University Hospital, Lille",
+   "countries": [
+    "France"
+   ],
+   "url": "https://clinicaltrials.gov/study/NCT04704115"
+  },
+  {
+   "nct_id": "NCT05069740",
+   "title": "Endometriosis and Microvascular Dysfunction: Role of Inflammation",
+   "status": "RECRUITING",
+   "phase": "EARLY_PHASE1",
+   "sponsor": "Penn State University",
+   "countries": [
+    "United States"
+   ],
+   "url": "https://clinicaltrials.gov/study/NCT05069740"
+  },
+  {
+   "nct_id": "NCT02471443",
+   "title": "Laparoscopic Surgery for Severe Recto-vaginal Endometriosis",
+   "status": "RECRUITING",
+   "phase": "N/A",
+   "sponsor": "Royal Surrey County Hospital NHS Foundation Trust",
+   "countries": [
+    "United Kingdom"
+   ],
+   "url": "https://clinicaltrials.gov/study/NCT02471443"
+  },
+  {
+   "nct_id": "NCT07810218",
+   "title": "Personalized Exercise Recommendations for Chronic Pelvic Pain Using Reinforcement Learning",
+   "status": "RECRUITING",
+   "phase": "NA",
+   "sponsor": "Icahn School of Medicine at Mount Sinai",
+   "countries": [
+    "United States"
+   ],
+   "url": "https://clinicaltrials.gov/study/NCT07810218"
   },
   {
    "nct_id": "NCT07816133",
@@ -697,752 +322,37 @@
    "url": "https://clinicaltrials.gov/study/NCT06525155"
   },
   {
-   "nct_id": "NCT07037251",
-   "title": "Screening for Fibromyalgia Among Patients With Suspected Endometriosis",
-   "status": "RECRUITING",
-   "phase": "N/A",
-   "sponsor": "Assuta Ashdod Hospital",
-   "countries": [
-    "Israel"
-   ],
-   "url": "https://clinicaltrials.gov/study/NCT07037251"
-  },
-  {
-   "nct_id": "NCT07240883",
-   "title": "ENDO1000 - A UK-wide Endometriosis Research Project",
-   "status": "RECRUITING",
-   "phase": "N/A",
-   "sponsor": "University of Edinburgh",
-   "countries": [
-    "United Kingdom"
-   ],
-   "url": "https://clinicaltrials.gov/study/NCT07240883"
-  },
-  {
-   "nct_id": "NCT07733583",
-   "title": "Pelvic Floor Physical Therapy and Exercise for Women With Endometriosis and Chronic Pelvic Pain",
+   "nct_id": "NCT07065214",
+   "title": "Argon Plasma Treatment for Ovarian Endometrioma Compared to Standard Cystectomy",
    "status": "RECRUITING",
    "phase": "NA",
-   "sponsor": "Hospital de Clinicas de Porto Alegre",
+   "sponsor": "Erbe Elektromedizin GmbH",
    "countries": [
-    "Brazil"
+    "Germany"
    ],
-   "url": "https://clinicaltrials.gov/study/NCT07733583"
+   "url": "https://clinicaltrials.gov/study/NCT07065214"
   },
   {
-   "nct_id": "NCT04806620",
-   "title": "Unhide® Project: A Digital Health Platform to Collect Lifestyle Data for Brain Inflammation Research",
-   "status": "RECRUITING",
-   "phase": "N/A",
-   "sponsor": "Brain Inflammation Collaborative",
-   "countries": [
-    "United States"
-   ],
-   "url": "https://clinicaltrials.gov/study/NCT04806620"
-  },
-  {
-   "nct_id": "NCT06955221",
-   "title": "Effect of Alcohol Sclerotherapy on Pelvic Pain and Quality of Life in Women With Ovarian Endometriosis",
+   "nct_id": "NCT06549985",
+   "title": "Interdisciplinary Group Care for the Treatment of Endometriosis-associated Pain",
    "status": "RECRUITING",
    "phase": "NA",
-   "sponsor": "Hospital Universitari de Bellvitge",
-   "countries": [
-    "Spain"
-   ],
-   "url": "https://clinicaltrials.gov/study/NCT06955221"
-  },
-  {
-   "nct_id": "NCT02948972",
-   "title": "Impact of Complete Surgery of Colorectal Deep Infiltrating Endometriosis on Fertility",
-   "status": "RECRUITING",
-   "phase": "NA",
-   "sponsor": "University Hospital, Lille",
-   "countries": [
-    "France"
-   ],
-   "url": "https://clinicaltrials.gov/study/NCT02948972"
-  },
-  {
-   "nct_id": "NCT06852248",
-   "title": "Ureteric Identification Using Indocyanine Green Dye Versus Conventional Ureteric Stenting to Reduce Post-operative Pain and Surgical Morbidity During Endometriosis Surgery",
-   "status": "RECRUITING",
-   "phase": "N/A",
-   "sponsor": "University Hospitals of North Midlands NHS Trust",
-   "countries": [
-    "United Kingdom"
-   ],
-   "url": "https://clinicaltrials.gov/study/NCT06852248"
-  },
-  {
-   "nct_id": "NCT07232485",
-   "title": "Retinal Imaging for Systemic Inflammation in Endometriosis",
-   "status": "RECRUITING",
-   "phase": "N/A",
-   "sponsor": "University of Edinburgh",
-   "countries": [
-    "United Kingdom"
-   ],
-   "url": "https://clinicaltrials.gov/study/NCT07232485"
-  },
-  {
-   "nct_id": "NCT06413381",
-   "title": "Risk Factors for Non-response to Hormonal Medical Therapy in Patients With Endometriosis",
-   "status": "RECRUITING",
-   "phase": "N/A",
-   "sponsor": "IRCCS Azienda Ospedaliero-Universitaria di Bologna",
-   "countries": [
-    "Italy"
-   ],
-   "url": "https://clinicaltrials.gov/study/NCT06413381"
-  },
-  {
-   "nct_id": "NCT06209346",
-   "title": "Multimodal Physiotherapy Based on Tele-rehabilitation in Chronic Pelvic Pain Associated With Endometriosis",
-   "status": "RECRUITING",
-   "phase": "NA",
-   "sponsor": "University of Alcala",
-   "countries": [
-    "Spain"
-   ],
-   "url": "https://clinicaltrials.gov/study/NCT06209346"
-  },
-  {
-   "nct_id": "NCT07578480",
-   "title": "MEN-ENDO: Menstrual Stem Cells in Endometriosis",
-   "status": "RECRUITING",
-   "phase": "N/A",
-   "sponsor": "Francisco Algaba Chueca",
-   "countries": [
-    "Spain"
-   ],
-   "url": "https://clinicaltrials.gov/study/NCT07578480"
-  },
-  {
-   "nct_id": "NCT06356831",
-   "title": "National Registry of Surgical Treatment and Percutaneous Cryoablation of Parietal Endometriosis",
-   "status": "RECRUITING",
-   "phase": "N/A",
-   "sponsor": "Centre Hospitalier Intercommunal Creteil",
-   "countries": [
-    "France"
-   ],
-   "url": "https://clinicaltrials.gov/study/NCT06356831"
-  },
-  {
-   "nct_id": "NCT06951802",
-   "title": "Endometriosis and Pain Treatment by Intraoperative Administration of Low-dose Ketamine",
-   "status": "RECRUITING",
-   "phase": "PHASE4",
-   "sponsor": "Insel Gruppe AG, University Hospital Bern",
-   "countries": [
-    "Switzerland"
-   ],
-   "url": "https://clinicaltrials.gov/study/NCT06951802"
-  },
-  {
-   "nct_id": "NCT07592403",
-   "title": "Efficacy of Pulsed Electromagnetic Field Therapy on Women With Endometriosis",
-   "status": "RECRUITING",
-   "phase": "NA",
-   "sponsor": "Beni-Suef University",
-   "countries": [
-    "Egypt"
-   ],
-   "url": "https://clinicaltrials.gov/study/NCT07592403"
-  },
-  {
-   "nct_id": "NCT07127783",
-   "title": "Physical Therapy After Endometriosis Excision",
-   "status": "RECRUITING",
-   "phase": "NA",
-   "sponsor": "Oregon Health and Science University",
-   "countries": [
-    "United States"
-   ],
-   "url": "https://clinicaltrials.gov/study/NCT07127783"
-  },
-  {
-   "nct_id": "NCT06445179",
-   "title": "ENDOmetriosis Robotic Assisted Surgery",
-   "status": "RECRUITING",
-   "phase": "NA",
-   "sponsor": "GCS Ramsay Santé pour l'Enseignement et la Recherche",
-   "countries": [
-    "France"
-   ],
-   "url": "https://clinicaltrials.gov/study/NCT06445179"
-  },
-  {
-   "nct_id": "NCT07173127",
-   "title": "The Impact of a Novel GnRH Antagonist With Add-back Therapy for Treatment of Uterine Fibroids and Endometriosis on Hemostasis Parameters",
-   "status": "RECRUITING",
-   "phase": "NA",
-   "sponsor": "University Hospital, Geneva",
-   "countries": [
-    "Switzerland"
-   ],
-   "url": "https://clinicaltrials.gov/study/NCT07173127"
-  },
-  {
-   "nct_id": "NCT07053982",
-   "title": "Use of a New Diagnostic Tool in the Detection and Characterization of Endometriosis Lesions",
-   "status": "RECRUITING",
-   "phase": "NA",
-   "sponsor": "University Hospital, Toulouse",
-   "countries": [
-    "France"
-   ],
-   "url": "https://clinicaltrials.gov/study/NCT07053982"
-  },
-  {
-   "nct_id": "NCT06820450",
-   "title": "Pilot Study to Characterize the Endometriosis Steroidome and Its Link to Endocrine Disruptors and Vaginal Dysbiosis",
-   "status": "RECRUITING",
-   "phase": "N/A",
-   "sponsor": "Nantes University Hospital",
-   "countries": [
-    "France"
-   ],
-   "url": "https://clinicaltrials.gov/study/NCT06820450"
-  },
-  {
-   "nct_id": "NCT07731776",
-   "title": "Improving Access to Pelvic Health Physiotherapy for Endometriosis",
-   "status": "RECRUITING",
-   "phase": "N/A",
-   "sponsor": "Université de Sherbrooke",
-   "countries": [
-    "Canada"
-   ],
-   "url": "https://clinicaltrials.gov/study/NCT07731776"
-  },
-  {
-   "nct_id": "NCT07810218",
-   "title": "Personalized Exercise Recommendations for Chronic Pelvic Pain Using Reinforcement Learning",
-   "status": "RECRUITING",
-   "phase": "NA",
-   "sponsor": "Icahn School of Medicine at Mount Sinai",
-   "countries": [
-    "United States"
-   ],
-   "url": "https://clinicaltrials.gov/study/NCT07810218"
-  },
-  {
-   "nct_id": "NCT03555903",
-   "title": "Quality of Life and Fertility of Patient With Deep Surgical Endometriosis: a Prospective Cohort",
-   "status": "RECRUITING",
-   "phase": "N/A",
-   "sponsor": "Hospices Civils de Lyon",
-   "countries": [
-    "France"
-   ],
-   "url": "https://clinicaltrials.gov/study/NCT03555903"
-  },
-  {
-   "nct_id": "NCT02471443",
-   "title": "Laparoscopic Surgery for Severe Recto-vaginal Endometriosis",
-   "status": "RECRUITING",
-   "phase": "N/A",
-   "sponsor": "Royal Surrey County Hospital NHS Foundation Trust",
-   "countries": [
-    "United Kingdom"
-   ],
-   "url": "https://clinicaltrials.gov/study/NCT02471443"
-  },
-  {
-   "nct_id": "NCT06885125",
-   "title": "Dietary Intervention to Improve Fertility in Women With Endometriosis Undergoing IVF",
-   "status": "RECRUITING",
-   "phase": "NA",
-   "sponsor": "Fondazione IRCCS Ca' Granda, Ospedale Maggiore Policlinico",
-   "countries": [
-    "Italy"
-   ],
-   "url": "https://clinicaltrials.gov/study/NCT06885125"
-  },
-  {
-   "nct_id": "NCT07776574",
-   "title": "Deep Endometriosis Affecting the Urogenital Tract: Long-term Outcomes and Impact on Renal Function",
-   "status": "RECRUITING",
-   "phase": "N/A",
-   "sponsor": "Charles University, Czech Republic",
-   "countries": [
-    "Czechia"
-   ],
-   "url": "https://clinicaltrials.gov/study/NCT07776574"
-  },
-  {
-   "nct_id": "NCT07471373",
-   "title": "Pesticides and Infertility: Oxidative Stress Via Circulating Cell-free DNA and Gut/Genital Microbiome Signatures in Women With Endometriosis",
-   "status": "RECRUITING",
-   "phase": "NA",
-   "sponsor": "Centre Hospitalier Universitaire, Amiens",
-   "countries": [
-    "France"
-   ],
-   "url": "https://clinicaltrials.gov/study/NCT07471373"
-  },
-  {
-   "nct_id": "NCT07427849",
-   "title": "Observational Study on the Use of Ultrasound to Recognize Superficial Endometriosis in a Specific Area of the Pelvis (the Uterosacral Ligaments)",
-   "status": "RECRUITING",
-   "phase": "N/A",
-   "sponsor": "Casa di Cura Dott. Pederzoli",
-   "countries": [
-    "Italy"
-   ],
-   "url": "https://clinicaltrials.gov/study/NCT07427849"
-  },
-  {
-   "nct_id": "NCT07446608",
-   "title": "MRI-Based Prediction of Dienogest Response in Endometriosis",
-   "status": "RECRUITING",
-   "phase": "N/A",
-   "sponsor": "Chungnam National University Sejong Hospital",
-   "countries": [
-    "South Korea"
-   ],
-   "url": "https://clinicaltrials.gov/study/NCT07446608"
-  },
-  {
-   "nct_id": "NCT06211231",
-   "title": "MY-ENDO -- Mind Your ENDOmetriosis: a Digital Mindfulness- and Acceptance-based Endometriosis Self-management Program",
-   "status": "RECRUITING",
-   "phase": "NA",
-   "sponsor": "University of Aarhus",
-   "countries": [
-    "Denmark"
-   ],
-   "url": "https://clinicaltrials.gov/study/NCT06211231"
-  },
-  {
-   "nct_id": "NCT06426316",
-   "title": "The Role of Cytokines and Regulatory T Lymphocytes in Migraine Pathophysiology.",
-   "status": "RECRUITING",
-   "phase": "NA",
-   "sponsor": "University Hospital, Clermont-Ferrand",
-   "countries": [
-    "France"
-   ],
-   "url": "https://clinicaltrials.gov/study/NCT06426316"
-  },
-  {
-   "nct_id": "NCT07243587",
-   "title": "Cohort of the Franco-European Multidisciplinary Institute of Endometriosis",
-   "status": "RECRUITING",
-   "phase": "N/A",
-   "sponsor": "Clinique Tivoli Ducos",
-   "countries": [
-    "France"
-   ],
-   "url": "https://clinicaltrials.gov/study/NCT07243587"
-  },
-  {
-   "nct_id": "NCT06101303",
-   "title": "Endometriosis Pain",
-   "status": "RECRUITING",
-   "phase": "N/A",
    "sponsor": "Washington University School of Medicine",
    "countries": [
     "United States"
    ],
-   "url": "https://clinicaltrials.gov/study/NCT06101303"
+   "url": "https://clinicaltrials.gov/study/NCT06549985"
   },
   {
-   "nct_id": "NCT07728695",
-   "title": "Assessing the Mechanisms and Impact of a Novel Cannabinoid Product for Gynecologic Pain",
-   "status": "RECRUITING",
-   "phase": "PHASE1/PHASE2",
-   "sponsor": "Staci Gruber, Ph.D.",
-   "countries": [
-    "United States"
-   ],
-   "url": "https://clinicaltrials.gov/study/NCT07728695"
-  },
-  {
-   "nct_id": "NCT01301885",
-   "title": "ENDOMET - Novel Diagnostic Tools and Treatments for Endometriosis",
-   "status": "RECRUITING",
-   "phase": "N/A",
-   "sponsor": "Turku University Hospital",
-   "countries": [
-    "Finland"
-   ],
-   "url": "https://clinicaltrials.gov/study/NCT01301885"
-  },
-  {
-   "nct_id": "NCT06332560",
-   "title": "Pain in Endometriosis And the Relation to Lifestyle",
+   "nct_id": "NCT04177511",
+   "title": "Treatment of Chronic Pelvic Pain Due to Endometriosis by Transcutaneous Auricular Vagus Nerve Stimulation",
    "status": "RECRUITING",
    "phase": "NA",
-   "sponsor": "Radboud University Medical Center",
-   "countries": [
-    "Netherlands"
-   ],
-   "url": "https://clinicaltrials.gov/study/NCT06332560"
-  },
-  {
-   "nct_id": "NCT07749053",
-   "title": "Guangdong Provincial Endometriosis Clinical Research Cohort",
-   "status": "RECRUITING",
-   "phase": "N/A",
-   "sponsor": "Li Li",
-   "countries": [
-    "China"
-   ],
-   "url": "https://clinicaltrials.gov/study/NCT07749053"
-  },
-  {
-   "nct_id": "NCT06452407",
-   "title": "Evaluating the Feasibility of elleFA App Implementation",
-   "status": "RECRUITING",
-   "phase": "NA",
-   "sponsor": "McGill University Health Centre/Research Institute of the McGill University Health Centre",
-   "countries": [
-    "Canada"
-   ],
-   "url": "https://clinicaltrials.gov/study/NCT06452407"
-  },
-  {
-   "nct_id": "NCT04567771",
-   "title": "Comparison of Proton or Intensity Modulated Radiation Therapy After Surgery for Endometrial or Cervical Cancer",
-   "status": "RECRUITING",
-   "phase": "NA",
-   "sponsor": "Mayo Clinic",
-   "countries": [
-    "United States"
-   ],
-   "url": "https://clinicaltrials.gov/study/NCT04567771"
-  },
-  {
-   "nct_id": "NCT07149519",
-   "title": "Impact of Dietary Guidance and Probiotics in the Treatment of Endometriosis and Irritable Bowel Syndrome in Women",
-   "status": "RECRUITING",
-   "phase": "NA",
-   "sponsor": "University of Sao Paulo",
-   "countries": [
-    "Brazil"
-   ],
-   "url": "https://clinicaltrials.gov/study/NCT07149519"
-  },
-  {
-   "nct_id": "NCT06386276",
-   "title": "Surgical TReatment of Women With Deep ENDometriosis",
-   "status": "RECRUITING",
-   "phase": "N/A",
-   "sponsor": "Casa di Cura Privata 'Malzoni - Villa dei Platani' S.P.A.",
-   "countries": [
-    "Italy"
-   ],
-   "url": "https://clinicaltrials.gov/study/NCT06386276"
-  },
-  {
-   "nct_id": "NCT06392997",
-   "title": "Evaluation of Salivary RNA in Subjects Scheduled for Surgery for a Gynecologic Pathology",
-   "status": "RECRUITING",
-   "phase": "N/A",
-   "sponsor": "ZIWIG",
+   "sponsor": "Hopital Foch",
    "countries": [
     "France"
    ],
-   "url": "https://clinicaltrials.gov/study/NCT06392997"
-  },
-  {
-   "nct_id": "NCT06333353",
-   "title": "Is Repetitive Transcranial Magnetic Stimulation Effective in Reducing Endometriosis-associated Pain",
-   "status": "RECRUITING",
-   "phase": "NA",
-   "sponsor": "University of Ottawa",
-   "countries": [
-    "Canada"
-   ],
-   "url": "https://clinicaltrials.gov/study/NCT06333353"
-  },
-  {
-   "nct_id": "NCT04151433",
-   "title": "Conservative Endometrioma Surgery",
-   "status": "RECRUITING",
-   "phase": "NA",
-   "sponsor": "Universitaire Ziekenhuizen KU Leuven",
-   "countries": [
-    "Belgium"
-   ],
-   "url": "https://clinicaltrials.gov/study/NCT04151433"
-  },
-  {
-   "nct_id": "NCT07713108",
-   "title": "Pelvic Floor Muscle Function and Endometriosis-Related Pelvic Pain",
-   "status": "RECRUITING",
-   "phase": "N/A",
-   "sponsor": "University of Pecs",
-   "countries": [
-    "Hungary"
-   ],
-   "url": "https://clinicaltrials.gov/study/NCT07713108"
-  },
-  {
-   "nct_id": "NCT04704115",
-   "title": "The Therapy of Large Endometrioma",
-   "status": "RECRUITING",
-   "phase": "N/A",
-   "sponsor": "University Hospital, Lille",
-   "countries": [
-    "France"
-   ],
-   "url": "https://clinicaltrials.gov/study/NCT04704115"
-  },
-  {
-   "nct_id": "NCT04166825",
-   "title": "Ovarian Hyperstimulation and Fibrin Clot Properties.",
-   "status": "RECRUITING",
-   "phase": "NA",
-   "sponsor": "Jagiellonian University",
-   "countries": [
-    "Poland"
-   ],
-   "url": "https://clinicaltrials.gov/study/NCT04166825"
-  },
-  {
-   "nct_id": "NCT07000786",
-   "title": "EUmetriosis: Insights Into the Pathogenesis of Endometriosis",
-   "status": "RECRUITING",
-   "phase": "NA",
-   "sponsor": "Université Catholique de Louvain",
-   "countries": [
-    "Belgium"
-   ],
-   "url": "https://clinicaltrials.gov/study/NCT07000786"
-  },
-  {
-   "nct_id": "NCT07686783",
-   "title": "Ovarian Reserve After Laparoscopic Cystectomy for Endometriotic and Non-Endometriotic Cysts",
-   "status": "RECRUITING",
-   "phase": "NA",
-   "sponsor": "Benha University",
-   "countries": [
-    "Egypt"
-   ],
-   "url": "https://clinicaltrials.gov/study/NCT07686783"
-  },
-  {
-   "nct_id": "NCT05677269",
-   "title": "The (Cost-)Effectiveness of Surgical Excision of Colorectal Endometriosis Compared to ART Treatment Trajectory",
-   "status": "RECRUITING",
-   "phase": "N/A",
-   "sponsor": "Leiden University Medical Center",
-   "countries": [
-    "Netherlands"
-   ],
-   "url": "https://clinicaltrials.gov/study/NCT05677269"
-  },
-  {
-   "nct_id": "NCT03622983",
-   "title": "Cohort of Patients With Pelvic Gynecological Cancer: Constitution of a Collection of Biological Samples With Radioclinical Characterization",
-   "status": "RECRUITING",
-   "phase": "N/A",
-   "sponsor": "Centre Hospitalier Intercommunal Creteil",
-   "countries": [
-    "France"
-   ],
-   "url": "https://clinicaltrials.gov/study/NCT03622983"
-  },
-  {
-   "nct_id": "NCT06864494",
-   "title": "Determination of Lipocalin Type-prostaglandin (L-PGDS) in Blood, Urine, Vaginal Samples and Endometrial Ablation by Enzyme-linked Immunosorbent Assay",
-   "status": "RECRUITING",
-   "phase": "N/A",
-   "sponsor": "Centre Hospitalier Universitaire de Nīmes",
-   "countries": [
-    "France"
-   ],
-   "url": "https://clinicaltrials.gov/study/NCT06864494"
-  },
-  {
-   "nct_id": "NCT06553989",
-   "title": "Impact on Quality of Life of Osteopathic Visceral Mobilizations After Endometriosis Surgery",
-   "status": "RECRUITING",
-   "phase": "NA",
-   "sponsor": "University Hospital, Clermont-Ferrand",
-   "countries": [
-    "France"
-   ],
-   "url": "https://clinicaltrials.gov/study/NCT06553989"
-  },
-  {
-   "nct_id": "NCT05754190",
-   "title": "Assessing Symptom and Mood Dynamics in Pain Using the Smartphone Application SOMA",
-   "status": "RECRUITING",
-   "phase": "N/A",
-   "sponsor": "Brown University",
-   "countries": [
-    "United States"
-   ],
-   "url": "https://clinicaltrials.gov/study/NCT05754190"
-  },
-  {
-   "nct_id": "NCT05152264",
-   "title": "Transcutaneous Electrical Nerve Stimulation for Endometriosis-related Chronic Pain",
-   "status": "RECRUITING",
-   "phase": "NA",
-   "sponsor": "Göteborg University",
-   "countries": [
-    "Sweden"
-   ],
-   "url": "https://clinicaltrials.gov/study/NCT05152264"
-  },
-  {
-   "nct_id": "NCT05069740",
-   "title": "Endometriosis and Microvascular Dysfunction: Role of Inflammation",
-   "status": "RECRUITING",
-   "phase": "EARLY_PHASE1",
-   "sponsor": "Penn State University",
-   "countries": [
-    "United States"
-   ],
-   "url": "https://clinicaltrials.gov/study/NCT05069740"
-  },
-  {
-   "nct_id": "NCT06876376",
-   "title": "Intraoperative Ultrasound in Bowel Deep Endometriosis",
-   "status": "RECRUITING",
-   "phase": "N/A",
-   "sponsor": "Fundacion Dexeus",
-   "countries": [
-    "Spain"
-   ],
-   "url": "https://clinicaltrials.gov/study/NCT06876376"
-  },
-  {
-   "nct_id": "NCT07683468",
-   "title": "Study on the Self-Administered Use of a Specialized Kit for the Management of Sexual Pain Associated With Endometriosis",
-   "status": "RECRUITING",
-   "phase": "NA",
-   "sponsor": "Elsan",
-   "countries": [
-    "France"
-   ],
-   "url": "https://clinicaltrials.gov/study/NCT07683468"
-  },
-  {
-   "nct_id": "NCT07603960",
-   "title": "Whole-Body Cryotherapy as a Non-Pharmacological Treatment to Reduce Chronic Pelvic Pain and Improve Quality of Life in People With Endometriosis",
-   "status": "RECRUITING",
-   "phase": "NA",
-   "sponsor": "University of Edinburgh",
-   "countries": [
-    "United Kingdom"
-   ],
-   "url": "https://clinicaltrials.gov/study/NCT07603960"
-  },
-  {
-   "nct_id": "NCT07305025",
-   "title": "Pelvic Pain Electro-Acupuncture",
-   "status": "RECRUITING",
-   "phase": "NA",
-   "sponsor": "St. Olavs Hospital",
-   "countries": [
-    "Norway"
-   ],
-   "url": "https://clinicaltrials.gov/study/NCT07305025"
-  },
-  {
-   "nct_id": "NCT06891690",
-   "title": "Use of tDCS Stimulation in Neurological and Gynaecological Conditions",
-   "status": "RECRUITING",
-   "phase": "NA",
-   "sponsor": "Poznan University of Physical Education",
-   "countries": [
-    "Poland"
-   ],
-   "url": "https://clinicaltrials.gov/study/NCT06891690"
-  },
-  {
-   "nct_id": "NCT06020482",
-   "title": "Molecular Markes of Fibrosis of Endometriosis and Their Use in Predicting Disease Severity",
-   "status": "RECRUITING",
-   "phase": "N/A",
-   "sponsor": "General University Hospital, Prague",
-   "countries": [
-    "Czechia"
-   ],
-   "url": "https://clinicaltrials.gov/study/NCT06020482"
-  },
-  {
-   "nct_id": "NCT07100782",
-   "title": "Estradiol-mediated Inflammation and Central Sensitization in the Pathophysiology of Endometriosis-associated Pelvic Pain",
-   "status": "RECRUITING",
-   "phase": "PHASE3",
-   "sponsor": "University of Michigan",
-   "countries": [
-    "United States"
-   ],
-   "url": "https://clinicaltrials.gov/study/NCT07100782"
-  },
-  {
-   "nct_id": "NCT07134023",
-   "title": "Educational Program for the Multidisciplinary Support of Patients With Endometriosis",
-   "status": "RECRUITING",
-   "phase": "NA",
-   "sponsor": "Centre Hospitalier Emile Roux",
-   "countries": [
-    "France"
-   ],
-   "url": "https://clinicaltrials.gov/study/NCT07134023"
-  },
-  {
-   "nct_id": "NCT07568834",
-   "title": "Impact of Pelvic Pain Podcast",
-   "status": "RECRUITING",
-   "phase": "NA",
-   "sponsor": "Vanderbilt University Medical Center",
-   "countries": [
-    "United States"
-   ],
-   "url": "https://clinicaltrials.gov/study/NCT07568834"
-  },
-  {
-   "nct_id": "NCT06543550",
-   "title": "Comparison Between the Effects of Implantable Gestrinone and Oral Dienogest in the Treatment of Endometriosis",
-   "status": "RECRUITING",
-   "phase": "PHASE4",
-   "sponsor": "Bio Meds Pharmaceutica Ltda",
-   "countries": [
-    "Brazil"
-   ],
-   "url": "https://clinicaltrials.gov/study/NCT06543550"
-  },
-  {
-   "nct_id": "NCT04862000",
-   "title": "Observational Study of Patients Suffering From Endometriosis and Adenomyosis",
-   "status": "RECRUITING",
-   "phase": "N/A",
-   "sponsor": "Chinese University of Hong Kong",
-   "countries": [
-    "Hong Kong"
-   ],
-   "url": "https://clinicaltrials.gov/study/NCT04862000"
-  },
-  {
-   "nct_id": "NCT07469007",
-   "title": "Impact of Surgery for Deep Posterior Endometriosis on Ovarian Reserve (ENDORO)",
-   "status": "RECRUITING",
-   "phase": "NA",
-   "sponsor": "GCS Ramsay Santé pour l'Enseignement et la Recherche",
-   "countries": [
-    "France"
-   ],
-   "url": "https://clinicaltrials.gov/study/NCT07469007"
-  },
-  {
-   "nct_id": "NCT06414720",
-   "title": "Salivary microRNA in Endometriosis: Correlation With Response to Progestin Therapy",
-   "status": "RECRUITING",
-   "phase": "N/A",
-   "sponsor": "University of Udine",
-   "countries": [
-    "Italy"
-   ],
-   "url": "https://clinicaltrials.gov/study/NCT06414720"
+   "url": "https://clinicaltrials.gov/study/NCT04177511"
   },
   {
    "nct_id": "NCT06785129",
@@ -1456,26 +366,257 @@
    "url": "https://clinicaltrials.gov/study/NCT06785129"
   },
   {
-   "nct_id": "NCT07693283",
-   "title": "Expression of Target in Endometriotic Lesions",
+   "nct_id": "NCT06153303",
+   "title": "Internet-based ACT for Endometriosis and Chronic Pain",
+   "status": "RECRUITING",
+   "phase": "NA",
+   "sponsor": "Skane University Hospital",
+   "countries": [
+    "Sweden"
+   ],
+   "url": "https://clinicaltrials.gov/study/NCT06153303"
+  },
+  {
+   "nct_id": "NCT06101303",
+   "title": "Endometriosis Pain",
    "status": "RECRUITING",
    "phase": "N/A",
-   "sponsor": "Beijing Tsinghua Chang Gung Hospital",
+   "sponsor": "Washington University School of Medicine",
+   "countries": [
+    "United States"
+   ],
+   "url": "https://clinicaltrials.gov/study/NCT06101303"
+  },
+  {
+   "nct_id": "NCT06963177",
+   "title": "A Phase IIa Clinical Study to Assess the Efficacy and Safety of GenSci048 in Patients With Moderate to Severe Endometriosis-Associated Pain",
+   "status": "RECRUITING",
+   "phase": "PHASE2",
+   "sponsor": "Changchun GeneScience Pharmaceutical Co., Ltd.",
    "countries": [
     "China"
    ],
-   "url": "https://clinicaltrials.gov/study/NCT07693283"
+   "url": "https://clinicaltrials.gov/study/NCT06963177"
   },
   {
-   "nct_id": "NCT07711743",
-   "title": "Histological Assessment of Tissue Penetration Depth of Argon Beam Coagulation in Ovarian Endometriomas",
+   "nct_id": "NCT06991595",
+   "title": "Fertility Limiting Diseases of Pelvic Organs and Their Influence on Receptivity of Endometrial Cavity: Prospective Clinical Trial",
+   "status": "RECRUITING",
+   "phase": "N/A",
+   "sponsor": "Charles University, Czech Republic",
+   "countries": [
+    "Czechia"
+   ],
+   "url": "https://clinicaltrials.gov/study/NCT06991595"
+  },
+  {
+   "nct_id": "NCT07000786",
+   "title": "EUmetriosis: Insights Into the Pathogenesis of Endometriosis",
    "status": "RECRUITING",
    "phase": "NA",
+   "sponsor": "Université Catholique de Louvain",
+   "countries": [
+    "Belgium"
+   ],
+   "url": "https://clinicaltrials.gov/study/NCT07000786"
+  },
+  {
+   "nct_id": "NCT04806620",
+   "title": "Unhide® Project: A Digital Health Platform to Collect Lifestyle Data for Brain Inflammation Research",
+   "status": "RECRUITING",
+   "phase": "N/A",
+   "sponsor": "Brain Inflammation Collaborative",
+   "countries": [
+    "United States"
+   ],
+   "url": "https://clinicaltrials.gov/study/NCT04806620"
+  },
+  {
+   "nct_id": "NCT07149519",
+   "title": "Impact of Dietary Guidance and Probiotics in the Treatment of Endometriosis and Irritable Bowel Syndrome in Women",
+   "status": "RECRUITING",
+   "phase": "NA",
+   "sponsor": "University of Sao Paulo",
+   "countries": [
+    "Brazil"
+   ],
+   "url": "https://clinicaltrials.gov/study/NCT07149519"
+  },
+  {
+   "nct_id": "NCT05779462",
+   "title": "ENDOMETRIOSIS - MRI",
+   "status": "RECRUITING",
+   "phase": "N/A",
+   "sponsor": "University Hospital, Lille",
+   "countries": [
+    "France"
+   ],
+   "url": "https://clinicaltrials.gov/study/NCT05779462"
+  },
+  {
+   "nct_id": "NCT06951802",
+   "title": "Endometriosis and Pain Treatment by Intraoperative Administration of Low-dose Ketamine",
+   "status": "RECRUITING",
+   "phase": "PHASE4",
    "sponsor": "Insel Gruppe AG, University Hospital Bern",
    "countries": [
     "Switzerland"
    ],
-   "url": "https://clinicaltrials.gov/study/NCT07711743"
+   "url": "https://clinicaltrials.gov/study/NCT06951802"
+  },
+  {
+   "nct_id": "NCT07683468",
+   "title": "Study on the Self-Administered Use of a Specialized Kit for the Management of Sexual Pain Associated With Endometriosis",
+   "status": "RECRUITING",
+   "phase": "NA",
+   "sponsor": "Elsan",
+   "countries": [
+    "France"
+   ],
+   "url": "https://clinicaltrials.gov/study/NCT07683468"
+  },
+  {
+   "nct_id": "NCT07100782",
+   "title": "Estradiol-mediated Inflammation and Central Sensitization in the Pathophysiology of Endometriosis-associated Pelvic Pain",
+   "status": "RECRUITING",
+   "phase": "PHASE3",
+   "sponsor": "University of Michigan",
+   "countries": [
+    "United States"
+   ],
+   "url": "https://clinicaltrials.gov/study/NCT07100782"
+  },
+  {
+   "nct_id": "NCT06209346",
+   "title": "Multimodal Physiotherapy Based on Tele-rehabilitation in Chronic Pelvic Pain Associated With Endometriosis",
+   "status": "RECRUITING",
+   "phase": "NA",
+   "sponsor": "University of Alcala",
+   "countries": [
+    "Spain"
+   ],
+   "url": "https://clinicaltrials.gov/study/NCT06209346"
+  },
+  {
+   "nct_id": "NCT07472842",
+   "title": "Study on the Outcomes of Patients Treated in Gynecological Emergency Departments for Pelvic Endometriosis or Suspected Pelvic Endometriosis",
+   "status": "RECRUITING",
+   "phase": "NA",
+   "sponsor": "Centre Hospitalier Intercommunal Creteil",
+   "countries": [
+    "France"
+   ],
+   "url": "https://clinicaltrials.gov/study/NCT07472842"
+  },
+  {
+   "nct_id": "NCT06414720",
+   "title": "Salivary microRNA in Endometriosis: Correlation With Response to Progestin Therapy",
+   "status": "RECRUITING",
+   "phase": "N/A",
+   "sponsor": "University of Udine",
+   "countries": [
+    "Italy"
+   ],
+   "url": "https://clinicaltrials.gov/study/NCT06414720"
+  },
+  {
+   "nct_id": "NCT06266897",
+   "title": "A Study on the Correlation Between Endometriosis and Intra-tissue Microbiota",
+   "status": "RECRUITING",
+   "phase": "N/A",
+   "sponsor": "Zhujiang Hospital",
+   "countries": [
+    "China"
+   ],
+   "url": "https://clinicaltrials.gov/study/NCT06266897"
+  },
+  {
+   "nct_id": "NCT06445179",
+   "title": "ENDOmetriosis Robotic Assisted Surgery",
+   "status": "RECRUITING",
+   "phase": "NA",
+   "sponsor": "GCS Ramsay Santé pour l'Enseignement et la Recherche",
+   "countries": [
+    "France"
+   ],
+   "url": "https://clinicaltrials.gov/study/NCT06445179"
+  },
+  {
+   "nct_id": "NCT07240883",
+   "title": "ENDO1000 - A UK-wide Endometriosis Research Project",
+   "status": "RECRUITING",
+   "phase": "N/A",
+   "sponsor": "University of Edinburgh",
+   "countries": [
+    "United Kingdom"
+   ],
+   "url": "https://clinicaltrials.gov/study/NCT07240883"
+  },
+  {
+   "nct_id": "NCT06852248",
+   "title": "Ureteric Identification Using Indocyanine Green Dye Versus Conventional Ureteric Stenting to Reduce Post-operative Pain and Surgical Morbidity During Endometriosis Surgery",
+   "status": "RECRUITING",
+   "phase": "N/A",
+   "sponsor": "University Hospitals of North Midlands NHS Trust",
+   "countries": [
+    "United Kingdom"
+   ],
+   "url": "https://clinicaltrials.gov/study/NCT06852248"
+  },
+  {
+   "nct_id": "NCT07560852",
+   "title": "Impact of Endotest on Patients' Quality of Life: a Cohort Study",
+   "status": "RECRUITING",
+   "phase": "N/A",
+   "sponsor": "ZIWIG",
+   "countries": [
+    "France"
+   ],
+   "url": "https://clinicaltrials.gov/study/NCT07560852"
+  },
+  {
+   "nct_id": "NCT07243587",
+   "title": "Cohort of the Franco-European Multidisciplinary Institute of Endometriosis",
+   "status": "RECRUITING",
+   "phase": "N/A",
+   "sponsor": "Clinique Tivoli Ducos",
+   "countries": [
+    "France"
+   ],
+   "url": "https://clinicaltrials.gov/study/NCT07243587"
+  },
+  {
+   "nct_id": "NCT06212349",
+   "title": "Therapeutic-educational Physiotherapy on Pain, Physical-functionality and Quality of Life in Women With Endometriosis.",
+   "status": "RECRUITING",
+   "phase": "NA",
+   "sponsor": "University of Valencia",
+   "countries": [
+    "Spain"
+   ],
+   "url": "https://clinicaltrials.gov/study/NCT06212349"
+  },
+  {
+   "nct_id": "NCT07860203",
+   "title": "Stellate Ganglion Block and Dexmedetomidine for Postoperative Sleep in Women Undergoing Laparoscopic Gynecologic Surgery",
+   "status": "RECRUITING",
+   "phase": "NA",
+   "sponsor": "Catherin Zhang",
+   "countries": [
+    "China"
+   ],
+   "url": "https://clinicaltrials.gov/study/NCT07860203"
+  },
+  {
+   "nct_id": "NCT01301885",
+   "title": "ENDOMET - Novel Diagnostic Tools and Treatments for Endometriosis",
+   "status": "RECRUITING",
+   "phase": "N/A",
+   "sponsor": "Turku University Hospital",
+   "countries": [
+    "Finland"
+   ],
+   "url": "https://clinicaltrials.gov/study/NCT01301885"
   },
   {
    "nct_id": "NCT06655584",
@@ -1489,15 +630,313 @@
    "url": "https://clinicaltrials.gov/study/NCT06655584"
   },
   {
-   "nct_id": "NCT07065214",
-   "title": "Argon Plasma Treatment for Ovarian Endometrioma Compared to Standard Cystectomy",
+   "nct_id": "NCT07810920",
+   "title": "Artificial Intelligence Into Ultrasound Diagnostics in Reproductive Medicine",
+   "status": "RECRUITING",
+   "phase": "N/A",
+   "sponsor": "Semmelweis University",
+   "countries": [
+    "Hungary"
+   ],
+   "url": "https://clinicaltrials.gov/study/NCT07810920"
+  },
+  {
+   "nct_id": "NCT07232485",
+   "title": "Retinal Imaging for Systemic Inflammation in Endometriosis",
+   "status": "RECRUITING",
+   "phase": "N/A",
+   "sponsor": "University of Edinburgh",
+   "countries": [
+    "United Kingdom"
+   ],
+   "url": "https://clinicaltrials.gov/study/NCT07232485"
+  },
+  {
+   "nct_id": "NCT07305025",
+   "title": "Pelvic Pain Electro-Acupuncture",
    "status": "RECRUITING",
    "phase": "NA",
-   "sponsor": "Erbe Elektromedizin GmbH",
+   "sponsor": "St. Olavs Hospital",
    "countries": [
+    "Norway"
+   ],
+   "url": "https://clinicaltrials.gov/study/NCT07305025"
+  },
+  {
+   "nct_id": "NCT06559852",
+   "title": "The Impact of Yoga on Endometriosis-Related Pain",
+   "status": "RECRUITING",
+   "phase": "NA",
+   "sponsor": "Milton S. Hershey Medical Center",
+   "countries": [
+    "United States"
+   ],
+   "url": "https://clinicaltrials.gov/study/NCT06559852"
+  },
+  {
+   "nct_id": "NCT07731776",
+   "title": "Improving Access to Pelvic Health Physiotherapy for Endometriosis",
+   "status": "RECRUITING",
+   "phase": "N/A",
+   "sponsor": "Université de Sherbrooke",
+   "countries": [
+    "Canada"
+   ],
+   "url": "https://clinicaltrials.gov/study/NCT07731776"
+  },
+  {
+   "nct_id": "NCT06671639",
+   "title": "Stanford Program to Accelerate Robotic Children's Surgery",
+   "status": "RECRUITING",
+   "phase": "NA",
+   "sponsor": "Stanford University",
+   "countries": [
+    "United States"
+   ],
+   "url": "https://clinicaltrials.gov/study/NCT06671639"
+  },
+  {
+   "nct_id": "NCT07686783",
+   "title": "Ovarian Reserve After Laparoscopic Cystectomy for Endometriotic and Non-Endometriotic Cysts",
+   "status": "RECRUITING",
+   "phase": "NA",
+   "sponsor": "Benha University",
+   "countries": [
+    "Egypt"
+   ],
+   "url": "https://clinicaltrials.gov/study/NCT07686783"
+  },
+  {
+   "nct_id": "NCT06414083",
+   "title": "Histologic Comparison of Ablative Techniques for Endometriosis",
+   "status": "RECRUITING",
+   "phase": "NA",
+   "sponsor": "TriHealth Inc.",
+   "countries": [
+    "United States"
+   ],
+   "url": "https://clinicaltrials.gov/study/NCT06414083"
+  },
+  {
+   "nct_id": "NCT07875062",
+   "title": "Trial Evaluating Nutritional Fiber in Digestive Symptoms of Endometriosis",
+   "status": "RECRUITING",
+   "phase": "NA",
+   "sponsor": "LOAM Science",
+   "countries": [
+    "United States"
+   ],
+   "url": "https://clinicaltrials.gov/study/NCT07875062"
+  },
+  {
+   "nct_id": "NCT07087756",
+   "title": "The Effect of Temporary Ovarian Suspension to the Abdominal Wall During Laparoscopic Endometriosis Surgery for Adhesion Prevention -A Comparative and Prospective Study",
+   "status": "RECRUITING",
+   "phase": "NA",
+   "sponsor": "Carmel Medical Center",
+   "countries": [
+    "Israel"
+   ],
+   "url": "https://clinicaltrials.gov/study/NCT07087756"
+  },
+  {
+   "nct_id": "NCT06876376",
+   "title": "Intraoperative Ultrasound in Bowel Deep Endometriosis",
+   "status": "RECRUITING",
+   "phase": "N/A",
+   "sponsor": "Fundacion Dexeus",
+   "countries": [
+    "Spain"
+   ],
+   "url": "https://clinicaltrials.gov/study/NCT06876376"
+  },
+  {
+   "nct_id": "NCT07553676",
+   "title": "Multicenter Study for Diagnostic Validation of a Laboratory Test for the Diagnosis of Endometriosis",
+   "status": "RECRUITING",
+   "phase": "N/A",
+   "sponsor": "Diamens FlexCo",
+   "countries": [
+    "Austria",
     "Germany"
    ],
-   "url": "https://clinicaltrials.gov/study/NCT07065214"
+   "url": "https://clinicaltrials.gov/study/NCT07553676"
+  },
+  {
+   "nct_id": "NCT07713108",
+   "title": "Pelvic Floor Muscle Function and Endometriosis-Related Pelvic Pain",
+   "status": "RECRUITING",
+   "phase": "N/A",
+   "sponsor": "University of Pecs",
+   "countries": [
+    "Hungary"
+   ],
+   "url": "https://clinicaltrials.gov/study/NCT07713108"
+  },
+  {
+   "nct_id": "NCT06572852",
+   "title": "Next-Generation Endometriosis Diagnostics Through Comprehensive Multi-Dimensional Analysis",
+   "status": "RECRUITING",
+   "phase": "N/A",
+   "sponsor": "IRCCS San Raffaele",
+   "countries": [
+    "Italy"
+   ],
+   "url": "https://clinicaltrials.gov/study/NCT06572852"
+  },
+  {
+   "nct_id": "NCT07733583",
+   "title": "Pelvic Floor Physical Therapy and Exercise for Women With Endometriosis and Chronic Pelvic Pain",
+   "status": "RECRUITING",
+   "phase": "NA",
+   "sponsor": "Hospital de Clinicas de Porto Alegre",
+   "countries": [
+    "Brazil"
+   ],
+   "url": "https://clinicaltrials.gov/study/NCT07733583"
+  },
+  {
+   "nct_id": "NCT06211231",
+   "title": "MY-ENDO -- Mind Your ENDOmetriosis: a Digital Mindfulness- and Acceptance-based Endometriosis Self-management Program",
+   "status": "RECRUITING",
+   "phase": "NA",
+   "sponsor": "University of Aarhus",
+   "countries": [
+    "Denmark"
+   ],
+   "url": "https://clinicaltrials.gov/study/NCT06211231"
+  },
+  {
+   "nct_id": "NCT07313345",
+   "title": "Predicting the Pain Outcome of Surgery for Endometriosis",
+   "status": "RECRUITING",
+   "phase": "N/A",
+   "sponsor": "University of Oxford",
+   "countries": [
+    "United Kingdom"
+   ],
+   "url": "https://clinicaltrials.gov/study/NCT07313345"
+  },
+  {
+   "nct_id": "NCT07711743",
+   "title": "Histological Assessment of Tissue Penetration Depth of Argon Beam Coagulation in Ovarian Endometriomas",
+   "status": "RECRUITING",
+   "phase": "NA",
+   "sponsor": "Insel Gruppe AG, University Hospital Bern",
+   "countries": [
+    "Switzerland"
+   ],
+   "url": "https://clinicaltrials.gov/study/NCT07711743"
+  },
+  {
+   "nct_id": "NCT06392997",
+   "title": "Evaluation of Salivary RNA in Subjects Scheduled for Surgery for a Gynecologic Pathology",
+   "status": "RECRUITING",
+   "phase": "N/A",
+   "sponsor": "ZIWIG",
+   "countries": [
+    "France"
+   ],
+   "url": "https://clinicaltrials.gov/study/NCT06392997"
+  },
+  {
+   "nct_id": "NCT06020482",
+   "title": "Molecular Markes of Fibrosis of Endometriosis and Their Use in Predicting Disease Severity",
+   "status": "RECRUITING",
+   "phase": "N/A",
+   "sponsor": "General University Hospital, Prague",
+   "countries": [
+    "Czechia"
+   ],
+   "url": "https://clinicaltrials.gov/study/NCT06020482"
+  },
+  {
+   "nct_id": "NCT07134023",
+   "title": "Educational Program for the Multidisciplinary Support of Patients With Endometriosis",
+   "status": "RECRUITING",
+   "phase": "NA",
+   "sponsor": "Centre Hospitalier Emile Roux",
+   "countries": [
+    "France"
+   ],
+   "url": "https://clinicaltrials.gov/study/NCT07134023"
+  },
+  {
+   "nct_id": "NCT06439524",
+   "title": "The Effect of Medical Management Following Excisional Surgery for Endometriosis: A Randomized Controlled Trial",
+   "status": "RECRUITING",
+   "phase": "PHASE3",
+   "sponsor": "Main Line Health",
+   "countries": [
+    "United States"
+   ],
+   "url": "https://clinicaltrials.gov/study/NCT06439524"
+  },
+  {
+   "nct_id": "NCT06864494",
+   "title": "Determination of Lipocalin Type-prostaglandin (L-PGDS) in Blood, Urine, Vaginal Samples and Endometrial Ablation by Enzyme-linked Immunosorbent Assay",
+   "status": "RECRUITING",
+   "phase": "N/A",
+   "sponsor": "Centre Hospitalier Universitaire de Nīmes",
+   "countries": [
+    "France"
+   ],
+   "url": "https://clinicaltrials.gov/study/NCT06864494"
+  },
+  {
+   "nct_id": "NCT07578480",
+   "title": "MEN-ENDO: Menstrual Stem Cells in Endometriosis",
+   "status": "RECRUITING",
+   "phase": "N/A",
+   "sponsor": "Francisco Algaba Chueca",
+   "countries": [
+    "Spain"
+   ],
+   "url": "https://clinicaltrials.gov/study/NCT07578480"
+  },
+  {
+   "nct_id": "NCT07523308",
+   "title": "Efficacy and Safety of Intra-operative Dual Laparoscopy and Neo-rectoscopy for Bowel Endometriosis: The LUMEN-01 Trial",
+   "status": "RECRUITING",
+   "phase": "NA",
+   "sponsor": "Obstetrics & Gynecology Hospital of Fudan University",
+   "countries": [
+    "China"
+   ],
+   "url": "https://clinicaltrials.gov/study/NCT07523308"
+  },
+  {
+   "nct_id": "NCT07173127",
+   "title": "The Impact of a Novel GnRH Antagonist With Add-back Therapy for Treatment of Uterine Fibroids and Endometriosis on Hemostasis Parameters",
+   "status": "RECRUITING",
+   "phase": "NA",
+   "sponsor": "University Hospital, Geneva",
+   "countries": [
+    "Switzerland"
+   ],
+   "url": "https://clinicaltrials.gov/study/NCT07173127"
+  },
+  {
+   "nct_id": "NCT07427849",
+   "title": "Observational Study on the Use of Ultrasound to Recognize Superficial Endometriosis in a Specific Area of the Pelvis (the Uterosacral Ligaments)",
+   "status": "RECRUITING",
+   "phase": "N/A",
+   "sponsor": "Casa di Cura Dott. Pederzoli",
+   "countries": [
+    "Italy"
+   ],
+   "url": "https://clinicaltrials.gov/study/NCT07427849"
+  },
+  {
+   "nct_id": "NCT05179109",
+   "title": "Robotic Versus Laparoscopic Surgery for Deep Endometriosis",
+   "status": "RECRUITING",
+   "phase": "NA",
+   "sponsor": "University of Oulu",
+   "countries": [
+    "Finland"
+   ],
+   "url": "https://clinicaltrials.gov/study/NCT05179109"
   },
   {
    "nct_id": "NCT07755956",
@@ -1511,81 +950,15 @@
    "url": "https://clinicaltrials.gov/study/NCT07755956"
   },
   {
-   "nct_id": "NCT07437742",
-   "title": "Reproductive Prognosis in Women Seeking Offspring After Medical or Surgical Therapy for Endometriosis",
-   "status": "RECRUITING",
-   "phase": "N/A",
-   "sponsor": "Fondazione IRCCS Ca' Granda, Ospedale Maggiore Policlinico",
-   "countries": [
-    "Italy"
-   ],
-   "url": "https://clinicaltrials.gov/study/NCT07437742"
-  },
-  {
-   "nct_id": "NCT05339451",
-   "title": "Blood and Tissue Markers for Improving Diagnosis and Prognosis of Endometriosis. (ENDOBIO)",
-   "status": "RECRUITING",
-   "phase": "N/A",
-   "sponsor": "Region Stockholm",
-   "countries": [
-    "Sweden"
-   ],
-   "url": "https://clinicaltrials.gov/study/NCT05339451"
-  },
-  {
-   "nct_id": "NCT07591441",
-   "title": "Endometriosis Self-Management Strategies",
-   "status": "RECRUITING",
-   "phase": "N/A",
-   "sponsor": "Wageningen University and Research",
-   "countries": [
-    "Netherlands"
-   ],
-   "url": "https://clinicaltrials.gov/study/NCT07591441"
-  },
-  {
-   "nct_id": "NCT06776536",
-   "title": "Evaluation of Rectal Infiltration Depth and Length in Bowel Involvement of Deep Infiltrative Endometriosis (DIE) Using Intraoperative Transrectal Ultrasound (TRUS)",
+   "nct_id": "NCT07006987",
+   "title": "HerResolve™ in Detecting the Presence of Endometriosis Among Symptomatic Women",
    "status": "RECRUITING",
    "phase": "NA",
-   "sponsor": "Başakşehir Çam & Sakura City Hospital",
+   "sponsor": "Chinese University of Hong Kong",
    "countries": [
-    "Turkey (Türkiye)"
+    "China"
    ],
-   "url": "https://clinicaltrials.gov/study/NCT06776536"
-  },
-  {
-   "nct_id": "NCT06773065",
-   "title": "Central Awareness in Women With Endometriosis",
-   "status": "RECRUITING",
-   "phase": "N/A",
-   "sponsor": "IRCCS Azienda Ospedaliero-Universitaria di Bologna",
-   "countries": [
-    "Italy"
-   ],
-   "url": "https://clinicaltrials.gov/study/NCT06773065"
-  },
-  {
-   "nct_id": "NCT07393958",
-   "title": "Impact of Food Supplementation on Quality of Life in Patients With Endometriosis and Pelvic Pain.",
-   "status": "RECRUITING",
-   "phase": "NA",
-   "sponsor": "Arafarma Group, S.A.",
-   "countries": [
-    "Spain"
-   ],
-   "url": "https://clinicaltrials.gov/study/NCT07393958"
-  },
-  {
-   "nct_id": "NCT06161805",
-   "title": "Esketamine as Treatment for Chronic Pain Due to Endometriosis: a RCT Study",
-   "status": "RECRUITING",
-   "phase": "PHASE3",
-   "sponsor": "Reinier de Graaf Groep",
-   "countries": [
-    "Netherlands"
-   ],
-   "url": "https://clinicaltrials.gov/study/NCT06161805"
+   "url": "https://clinicaltrials.gov/study/NCT07006987"
   },
   {
    "nct_id": "NCT06579040",
@@ -1599,15 +972,510 @@
    "url": "https://clinicaltrials.gov/study/NCT06579040"
   },
   {
-   "nct_id": "NCT07429773",
-   "title": "Identify a Specific Immune Profile in Patients With Chronic Pelvic Pain Resistant to First-line Treatments by Measuring Th1, Th2, Th17, and Treg Cytokines Produced After Non-specific Functional Cell Stimulation - ImmunoCPP",
+   "nct_id": "NCT05754190",
+   "title": "Assessing Symptom and Mood Dynamics in Pain Using the Smartphone Application SOMA",
+   "status": "RECRUITING",
+   "phase": "N/A",
+   "sponsor": "Brown University",
+   "countries": [
+    "United States"
+   ],
+   "url": "https://clinicaltrials.gov/study/NCT05754190"
+  },
+  {
+   "nct_id": "NCT06502548",
+   "title": "Endometriosis Transcriptomic Cell Atlas",
    "status": "RECRUITING",
    "phase": "NA",
-   "sponsor": "Centre Hospitalier Universitaire de Nice",
+   "sponsor": "University Hospital, Toulouse",
    "countries": [
     "France"
    ],
-   "url": "https://clinicaltrials.gov/study/NCT07429773"
+   "url": "https://clinicaltrials.gov/study/NCT06502548"
+  },
+  {
+   "nct_id": "NCT07164183",
+   "title": "Clinical Study to Compare Efficacy and Safety of Indinol Forto® 200 mg Capsules and Visanne 2 mg Tablets in Treatment of Endometriosis",
+   "status": "RECRUITING",
+   "phase": "PHASE3",
+   "sponsor": "Alcea",
+   "countries": [
+    "Russia"
+   ],
+   "url": "https://clinicaltrials.gov/study/NCT07164183"
+  },
+  {
+   "nct_id": "NCT06553989",
+   "title": "Impact on Quality of Life of Osteopathic Visceral Mobilizations After Endometriosis Surgery",
+   "status": "RECRUITING",
+   "phase": "NA",
+   "sponsor": "University Hospital, Clermont-Ferrand",
+   "countries": [
+    "France"
+   ],
+   "url": "https://clinicaltrials.gov/study/NCT06553989"
+  },
+  {
+   "nct_id": "NCT07876648",
+   "title": "Prospective Trial of [18F]AlF-FAPI-74 for PET Imaging of Fibroblast Activation Protein in Patients With Endometriosis",
+   "status": "RECRUITING",
+   "phase": "NA",
+   "sponsor": "Universitaire Ziekenhuizen KU Leuven",
+   "countries": [
+    "Belgium"
+   ],
+   "url": "https://clinicaltrials.gov/study/NCT07876648"
+  },
+  {
+   "nct_id": "NCT06955221",
+   "title": "Effect of Alcohol Sclerotherapy on Pelvic Pain and Quality of Life in Women With Ovarian Endometriosis",
+   "status": "RECRUITING",
+   "phase": "NA",
+   "sponsor": "Hospital Universitari de Bellvitge",
+   "countries": [
+    "Spain"
+   ],
+   "url": "https://clinicaltrials.gov/study/NCT06955221"
+  },
+  {
+   "nct_id": "NCT07603960",
+   "title": "Whole-Body Cryotherapy as a Non-Pharmacological Treatment to Reduce Chronic Pelvic Pain and Improve Quality of Life in People With Endometriosis",
+   "status": "RECRUITING",
+   "phase": "NA",
+   "sponsor": "University of Edinburgh",
+   "countries": [
+    "United Kingdom"
+   ],
+   "url": "https://clinicaltrials.gov/study/NCT07603960"
+  },
+  {
+   "nct_id": "NCT07037251",
+   "title": "Screening for Fibromyalgia Among Patients With Suspected Endometriosis",
+   "status": "RECRUITING",
+   "phase": "N/A",
+   "sponsor": "Assuta Ashdod Hospital",
+   "countries": [
+    "Israel"
+   ],
+   "url": "https://clinicaltrials.gov/study/NCT07037251"
+  },
+  {
+   "nct_id": "NCT06211569",
+   "title": "Study of the Prevalence of Endometriosis and Adenomyosis",
+   "status": "RECRUITING",
+   "phase": "N/A",
+   "sponsor": "Assistance Publique - Hôpitaux de Paris",
+   "countries": [
+    "France"
+   ],
+   "url": "https://clinicaltrials.gov/study/NCT06211569"
+  },
+  {
+   "nct_id": "NCT07696351",
+   "title": "Ultra-Long GnRH-a Pretreatment for FET Outcomes in Patients With Deep Infiltrating Endometriosis",
+   "status": "RECRUITING",
+   "phase": "PHASE4",
+   "sponsor": "Li-jun Ding",
+   "countries": [
+    "China"
+   ],
+   "url": "https://clinicaltrials.gov/study/NCT07696351"
+  },
+  {
+   "nct_id": "NCT02948972",
+   "title": "Impact of Complete Surgery of Colorectal Deep Infiltrating Endometriosis on Fertility",
+   "status": "RECRUITING",
+   "phase": "NA",
+   "sponsor": "University Hospital, Lille",
+   "countries": [
+    "France"
+   ],
+   "url": "https://clinicaltrials.gov/study/NCT02948972"
+  },
+  {
+   "nct_id": "NCT06847685",
+   "title": "Mechanisms of Uterine Fluid Absorption During Early Pregnancy ( ELF Study)",
+   "status": "RECRUITING",
+   "phase": "N/A",
+   "sponsor": "Johns Hopkins University",
+   "countries": [
+    "United States"
+   ],
+   "url": "https://clinicaltrials.gov/study/NCT06847685"
+  },
+  {
+   "nct_id": "NCT06795243",
+   "title": "Efficacy of Physical Therapy Treatment in Endometriosis and Its Relationship to Adherence Rates.",
+   "status": "RECRUITING",
+   "phase": "NA",
+   "sponsor": "University of Seville",
+   "countries": [
+    "Spain"
+   ],
+   "url": "https://clinicaltrials.gov/study/NCT06795243"
+  },
+  {
+   "nct_id": "NCT06386276",
+   "title": "Surgical TReatment of Women With Deep ENDometriosis",
+   "status": "RECRUITING",
+   "phase": "N/A",
+   "sponsor": "Casa di Cura Privata 'Malzoni - Villa dei Platani' S.P.A.",
+   "countries": [
+    "Italy"
+   ],
+   "url": "https://clinicaltrials.gov/study/NCT06386276"
+  },
+  {
+   "nct_id": "NCT06332560",
+   "title": "Pain in Endometriosis And the Relation to Lifestyle",
+   "status": "RECRUITING",
+   "phase": "NA",
+   "sponsor": "Radboud University Medical Center",
+   "countries": [
+    "Netherlands"
+   ],
+   "url": "https://clinicaltrials.gov/study/NCT06332560"
+  },
+  {
+   "nct_id": "NCT06891690",
+   "title": "Use of tDCS Stimulation in Neurological and Gynaecological Conditions",
+   "status": "RECRUITING",
+   "phase": "NA",
+   "sponsor": "Poznan University of Physical Education",
+   "countries": [
+    "Poland"
+   ],
+   "url": "https://clinicaltrials.gov/study/NCT06891690"
+  },
+  {
+   "nct_id": "NCT06356831",
+   "title": "National Registry of Surgical Treatment and Percutaneous Cryoablation of Parietal Endometriosis",
+   "status": "RECRUITING",
+   "phase": "N/A",
+   "sponsor": "Centre Hospitalier Intercommunal Creteil",
+   "countries": [
+    "France"
+   ],
+   "url": "https://clinicaltrials.gov/study/NCT06356831"
+  },
+  {
+   "nct_id": "NCT06799767",
+   "title": "Radiological Diagnostics in Patients With Deep Endometriosis",
+   "status": "RECRUITING",
+   "phase": "N/A",
+   "sponsor": "IRCCS Azienda Ospedaliero-Universitaria di Bologna",
+   "countries": [
+    "Italy"
+   ],
+   "url": "https://clinicaltrials.gov/study/NCT06799767"
+  },
+  {
+   "nct_id": "NCT07568834",
+   "title": "Impact of Pelvic Pain Podcast",
+   "status": "RECRUITING",
+   "phase": "NA",
+   "sponsor": "Vanderbilt University Medical Center",
+   "countries": [
+    "United States"
+   ],
+   "url": "https://clinicaltrials.gov/study/NCT07568834"
+  },
+  {
+   "nct_id": "NCT06820450",
+   "title": "Pilot Study to Characterize the Endometriosis Steroidome and Its Link to Endocrine Disruptors and Vaginal Dysbiosis",
+   "status": "RECRUITING",
+   "phase": "N/A",
+   "sponsor": "Nantes University Hospital",
+   "countries": [
+    "France"
+   ],
+   "url": "https://clinicaltrials.gov/study/NCT06820450"
+  },
+  {
+   "nct_id": "NCT07749053",
+   "title": "Guangdong Provincial Endometriosis Clinical Research Cohort",
+   "status": "RECRUITING",
+   "phase": "N/A",
+   "sponsor": "Li Li",
+   "countries": [
+    "China"
+   ],
+   "url": "https://clinicaltrials.gov/study/NCT07749053"
+  },
+  {
+   "nct_id": "NCT05152264",
+   "title": "Transcutaneous Electrical Nerve Stimulation for Endometriosis-related Chronic Pain",
+   "status": "RECRUITING",
+   "phase": "NA",
+   "sponsor": "Göteborg University",
+   "countries": [
+    "Sweden"
+   ],
+   "url": "https://clinicaltrials.gov/study/NCT05152264"
+  },
+  {
+   "nct_id": "NCT07882498",
+   "title": "Postoperative Pain Trajectories After Endometriosis Surgery",
+   "status": "RECRUITING",
+   "phase": "N/A",
+   "sponsor": "Centre Hospitalier Universitaire, Amiens",
+   "countries": [
+    "France"
+   ],
+   "url": "https://clinicaltrials.gov/study/NCT07882498"
+  },
+  {
+   "nct_id": "NCT05978414",
+   "title": "Functional Links Between the Temporomandibular Joint and the Pelvis in Gynecology",
+   "status": "RECRUITING",
+   "phase": "NA",
+   "sponsor": "Poznan University of Physical Education",
+   "countries": [
+    "Poland"
+   ],
+   "url": "https://clinicaltrials.gov/study/NCT05978414"
+  },
+  {
+   "nct_id": "NCT06426316",
+   "title": "The Role of Cytokines and Regulatory T Lymphocytes in Migraine Pathophysiology.",
+   "status": "RECRUITING",
+   "phase": "NA",
+   "sponsor": "University Hospital, Clermont-Ferrand",
+   "countries": [
+    "France"
+   ],
+   "url": "https://clinicaltrials.gov/study/NCT06426316"
+  },
+  {
+   "nct_id": "NCT06974773",
+   "title": "Remote Electrical Stimulation as a Long-term Intervention for Endometriosis Flare Ups",
+   "status": "RECRUITING",
+   "phase": "NA",
+   "sponsor": "Samphire Group, Inc.",
+   "countries": [
+    "United States"
+   ],
+   "url": "https://clinicaltrials.gov/study/NCT06974773"
+  },
+  {
+   "nct_id": "NCT07592403",
+   "title": "Efficacy of Pulsed Electromagnetic Field Therapy on Women With Endometriosis",
+   "status": "RECRUITING",
+   "phase": "NA",
+   "sponsor": "Beni-Suef University",
+   "countries": [
+    "Egypt"
+   ],
+   "url": "https://clinicaltrials.gov/study/NCT07592403"
+  },
+  {
+   "nct_id": "NCT06997809",
+   "title": "ENDometriosis: Evaluation of Detection and Need for ALGOlogic Care Before Surgery",
+   "status": "RECRUITING",
+   "phase": "NA",
+   "sponsor": "University Hospital, Limoges",
+   "countries": [
+    "France"
+   ],
+   "url": "https://clinicaltrials.gov/study/NCT06997809"
+  },
+  {
+   "nct_id": "NCT07437742",
+   "title": "Reproductive Prognosis in Women Seeking Offspring After Medical or Surgical Therapy for Endometriosis",
+   "status": "RECRUITING",
+   "phase": "N/A",
+   "sponsor": "Fondazione IRCCS Ca' Granda, Ospedale Maggiore Policlinico",
+   "countries": [
+    "Italy"
+   ],
+   "url": "https://clinicaltrials.gov/study/NCT07437742"
+  },
+  {
+   "nct_id": "NCT07523997",
+   "title": "Imaging of Endometriosis With Total-body PET-CT (PET-Endo)",
+   "status": "RECRUITING",
+   "phase": "N/A",
+   "sponsor": "University of Edinburgh",
+   "countries": [
+    "United Kingdom"
+   ],
+   "url": "https://clinicaltrials.gov/study/NCT07523997"
+  },
+  {
+   "nct_id": "NCT04567771",
+   "title": "Comparison of Proton or Intensity Modulated Radiation Therapy After Surgery for Endometrial or Cervical Cancer",
+   "status": "RECRUITING",
+   "phase": "NA",
+   "sponsor": "Mayo Clinic",
+   "countries": [
+    "United States"
+   ],
+   "url": "https://clinicaltrials.gov/study/NCT04567771"
+  },
+  {
+   "nct_id": "NCT04356664",
+   "title": "Benefit of GnRH Agonist Before Frozen Embryo Transfer in Patients With Endometriosis and/or Adenomyosis",
+   "status": "RECRUITING",
+   "phase": "PHASE2/PHASE3",
+   "sponsor": "Hopital Foch",
+   "countries": [
+    "France"
+   ],
+   "url": "https://clinicaltrials.gov/study/NCT04356664"
+  },
+  {
+   "nct_id": "NCT07446608",
+   "title": "MRI-Based Prediction of Dienogest Response in Endometriosis",
+   "status": "RECRUITING",
+   "phase": "N/A",
+   "sponsor": "Chungnam National University Sejong Hospital",
+   "countries": [
+    "South Korea"
+   ],
+   "url": "https://clinicaltrials.gov/study/NCT07446608"
+  },
+  {
+   "nct_id": "NCT05245695",
+   "title": "Deep Neural Network Stratification for Use Detecting Endometriosis in Women Affected by Chronic Pelvic Pain (EndoCheck)",
+   "status": "RECRUITING",
+   "phase": "N/A",
+   "sponsor": "Aspira Women's Health",
+   "countries": [
+    "United States"
+   ],
+   "url": "https://clinicaltrials.gov/study/NCT05245695"
+  },
+  {
+   "nct_id": "NCT04862000",
+   "title": "Observational Study of Patients Suffering From Endometriosis and Adenomyosis",
+   "status": "RECRUITING",
+   "phase": "N/A",
+   "sponsor": "Chinese University of Hong Kong",
+   "countries": [
+    "Hong Kong"
+   ],
+   "url": "https://clinicaltrials.gov/study/NCT04862000"
+  },
+  {
+   "nct_id": "NCT07393295",
+   "title": "Efficacy and Tolerability of TENS in Endometriosis-related Pain",
+   "status": "RECRUITING",
+   "phase": "NA",
+   "sponsor": "Monath Electronic",
+   "countries": [
+    "France"
+   ],
+   "url": "https://clinicaltrials.gov/study/NCT07393295"
+  },
+  {
+   "nct_id": "NCT06885125",
+   "title": "Dietary Intervention to Improve Fertility in Women With Endometriosis Undergoing IVF",
+   "status": "RECRUITING",
+   "phase": "NA",
+   "sponsor": "Fondazione IRCCS Ca' Granda, Ospedale Maggiore Policlinico",
+   "countries": [
+    "Italy"
+   ],
+   "url": "https://clinicaltrials.gov/study/NCT06885125"
+  },
+  {
+   "nct_id": "NCT07215130",
+   "title": "Selective Removal of Endometriotic Lesions Using CUSA Clarity in Ovarian Endometriomas",
+   "status": "RECRUITING",
+   "phase": "N/A",
+   "sponsor": "Kanazawa University",
+   "countries": [
+    "Japan"
+   ],
+   "url": "https://clinicaltrials.gov/study/NCT07215130"
+  },
+  {
+   "nct_id": "NCT07591441",
+   "title": "Endometriosis Self-Management Strategies",
+   "status": "RECRUITING",
+   "phase": "N/A",
+   "sponsor": "Wageningen University and Research",
+   "countries": [
+    "Netherlands"
+   ],
+   "url": "https://clinicaltrials.gov/study/NCT07591441"
+  },
+  {
+   "nct_id": "NCT04151433",
+   "title": "Conservative Endometrioma Surgery",
+   "status": "RECRUITING",
+   "phase": "NA",
+   "sponsor": "Universitaire Ziekenhuizen KU Leuven",
+   "countries": [
+    "Belgium"
+   ],
+   "url": "https://clinicaltrials.gov/study/NCT04151433"
+  },
+  {
+   "nct_id": "NCT06773065",
+   "title": "Central Awareness in Women With Endometriosis",
+   "status": "RECRUITING",
+   "phase": "N/A",
+   "sponsor": "IRCCS Azienda Ospedaliero-Universitaria di Bologna",
+   "countries": [
+    "Italy"
+   ],
+   "url": "https://clinicaltrials.gov/study/NCT06773065"
+  },
+  {
+   "nct_id": "NCT05824819",
+   "title": "Endometriosis and Peritoneal Dysbiosis",
+   "status": "RECRUITING",
+   "phase": "NA",
+   "sponsor": "Jagiellonian University",
+   "countries": [
+    "Poland"
+   ],
+   "url": "https://clinicaltrials.gov/study/NCT05824819"
+  },
+  {
+   "nct_id": "NCT07090096",
+   "title": "A Randomized Controlled Trial of a Nutritional Intervention for Endometriosis",
+   "status": "RECRUITING",
+   "phase": "NA",
+   "sponsor": "University of California, San Diego",
+   "countries": [
+    "United States"
+   ],
+   "url": "https://clinicaltrials.gov/study/NCT07090096"
+  },
+  {
+   "nct_id": "NCT04481321",
+   "title": "Clinical and Molecular Study of Endometriosis and Adenomyosis",
+   "status": "RECRUITING",
+   "phase": "N/A",
+   "sponsor": "Assistance Publique - Hôpitaux de Paris",
+   "countries": [
+    "France"
+   ],
+   "url": "https://clinicaltrials.gov/study/NCT04481321"
+  },
+  {
+   "nct_id": "NCT07393958",
+   "title": "Impact of Food Supplementation on Quality of Life in Patients With Endometriosis and Pelvic Pain.",
+   "status": "RECRUITING",
+   "phase": "NA",
+   "sponsor": "Arafarma Group, S.A.",
+   "countries": [
+    "Spain"
+   ],
+   "url": "https://clinicaltrials.gov/study/NCT07393958"
+  },
+  {
+   "nct_id": "NCT06452407",
+   "title": "Evaluating the Feasibility of elleFA App Implementation",
+   "status": "RECRUITING",
+   "phase": "NA",
+   "sponsor": "McGill University Health Centre/Research Institute of the McGill University Health Centre",
+   "countries": [
+    "Canada"
+   ],
+   "url": "https://clinicaltrials.gov/study/NCT06452407"
   },
   {
    "nct_id": "NCT07679074",
@@ -1619,6 +1487,127 @@
     "United States"
    ],
    "url": "https://clinicaltrials.gov/study/NCT07679074"
+  },
+  {
+   "nct_id": "NCT05726786",
+   "title": "The Role of Preoperative Immunonutrition on Morbidity and Immune Response After Cystectomy (INCyst Trial)",
+   "status": "RECRUITING",
+   "phase": "PHASE3",
+   "sponsor": "Centre Hospitalier Universitaire Vaudois",
+   "countries": [
+    "Switzerland"
+   ],
+   "url": "https://clinicaltrials.gov/study/NCT05726786"
+  },
+  {
+   "nct_id": "NCT06333353",
+   "title": "Is Repetitive Transcranial Magnetic Stimulation Effective in Reducing Endometriosis-associated Pain",
+   "status": "RECRUITING",
+   "phase": "NA",
+   "sponsor": "University of Ottawa",
+   "countries": [
+    "Canada"
+   ],
+   "url": "https://clinicaltrials.gov/study/NCT06333353"
+  },
+  {
+   "nct_id": "NCT07240363",
+   "title": "First Line Surgery or First Line Fertility Treatment Using Assisted Reproductive Technologies in Patients With Advanced Endometriosis",
+   "status": "RECRUITING",
+   "phase": "NA",
+   "sponsor": "Karolinska Institutet",
+   "countries": [
+    "Sweden"
+   ],
+   "url": "https://clinicaltrials.gov/study/NCT07240363"
+  },
+  {
+   "nct_id": "NCT06413381",
+   "title": "Risk Factors for Non-response to Hormonal Medical Therapy in Patients With Endometriosis",
+   "status": "RECRUITING",
+   "phase": "N/A",
+   "sponsor": "IRCCS Azienda Ospedaliero-Universitaria di Bologna",
+   "countries": [
+    "Italy"
+   ],
+   "url": "https://clinicaltrials.gov/study/NCT06413381"
+  },
+  {
+   "nct_id": "NCT05862272",
+   "title": "A Phase 3B Study to Evaluate Bone Mineral Density With Long-Term Use of Relugolix Combination Tablet in Women With Uterine Fibroids or Endometriosis",
+   "status": "RECRUITING",
+   "phase": "PHASE3",
+   "sponsor": "Sumitomo Pharma Switzerland GmbH",
+   "countries": [
+    "United States"
+   ],
+   "url": "https://clinicaltrials.gov/study/NCT05862272"
+  },
+  {
+   "nct_id": "NCT07728695",
+   "title": "Assessing the Mechanisms and Impact of a Novel Cannabinoid Product for Gynecologic Pain",
+   "status": "RECRUITING",
+   "phase": "PHASE1/PHASE2",
+   "sponsor": "Staci Gruber, Ph.D.",
+   "countries": [
+    "United States"
+   ],
+   "url": "https://clinicaltrials.gov/study/NCT07728695"
+  },
+  {
+   "nct_id": "NCT05677269",
+   "title": "The (Cost-)Effectiveness of Surgical Excision of Colorectal Endometriosis Compared to ART Treatment Trajectory",
+   "status": "RECRUITING",
+   "phase": "N/A",
+   "sponsor": "Leiden University Medical Center",
+   "countries": [
+    "Netherlands"
+   ],
+   "url": "https://clinicaltrials.gov/study/NCT05677269"
+  },
+  {
+   "nct_id": "NCT07318688",
+   "title": "Evaluate the Efficacy and Safety of HMI-115 in Women With Moderate to Severe Endometriosis-associated Pain",
+   "status": "RECRUITING",
+   "phase": "PHASE3",
+   "sponsor": "Hope Medicine (Nanjing) Co., Ltd",
+   "countries": [
+    "China"
+   ],
+   "url": "https://clinicaltrials.gov/study/NCT07318688"
+  },
+  {
+   "nct_id": "NCT07864883",
+   "title": "3D Modeling of Deep Endometriosis From Pelvic MRI",
+   "status": "RECRUITING",
+   "phase": "N/A",
+   "sponsor": "University Hospital, Strasbourg, France",
+   "countries": [
+    "France"
+   ],
+   "url": "https://clinicaltrials.gov/study/NCT07864883"
+  },
+  {
+   "nct_id": "NCT04166825",
+   "title": "Ovarian Hyperstimulation and Fibrin Clot Properties.",
+   "status": "RECRUITING",
+   "phase": "NA",
+   "sponsor": "Jagiellonian University",
+   "countries": [
+    "Poland"
+   ],
+   "url": "https://clinicaltrials.gov/study/NCT04166825"
+  },
+  {
+   "nct_id": "NCT07713797",
+   "title": "Biomarkers for Endometriosis",
+   "status": "RECRUITING",
+   "phase": "N/A",
+   "sponsor": "Trio Fertility",
+   "countries": [
+    "Canada"
+   ],
+   "url": "https://clinicaltrials.gov/study/NCT07713797"
   }
  ]
 }

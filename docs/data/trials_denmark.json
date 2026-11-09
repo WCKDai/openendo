@@ -1,16 +1,16 @@
 {
- "updated": "2026-11-02",
+ "updated": "2026-11-09",
  "trials": [
   {
-   "nct_id": "NCT02100345",
-   "title": "Conservative Treatment of Rectosigmoid Endometriosis Monitored by Transvaginal Ultrasound",
-   "status": "COMPLETED",
+   "nct_id": "NCT01946698",
+   "title": "Endometriosis, Food Consumption and Fertility",
+   "status": "RECRUITING",
    "phase": "N/A",
    "sponsor": "University of Aarhus",
    "countries": [
     "Denmark"
    ],
-   "url": "https://clinicaltrials.gov/study/NCT02100345"
+   "url": "https://clinicaltrials.gov/study/NCT01946698"
   },
   {
    "nct_id": "NCT04610710",
@@ -25,29 +25,15 @@
    "url": "https://clinicaltrials.gov/study/NCT04610710"
   },
   {
-   "nct_id": "NCT03749109",
-   "title": "Quinagolide Vaginal Ring on Lesion Reduction Assessed by MRI in Women With Endometriosis/Adenomyosis",
+   "nct_id": "NCT02761382",
+   "title": "Psychological Pain Treatment in Endometriosis",
    "status": "COMPLETED",
-   "phase": "PHASE2",
-   "sponsor": "Ferring Pharmaceuticals",
-   "countries": [
-    "Denmark",
-    "Germany",
-    "Italy",
-    "Poland"
-   ],
-   "url": "https://clinicaltrials.gov/study/NCT03749109"
-  },
-  {
-   "nct_id": "NCT01738932",
-   "title": "Genetic Polymorphisms of Mannan-binding Lectin (MBL)and Serum Levels of MBL in Patients With Endometriosis",
-   "status": "COMPLETED",
-   "phase": "N/A",
+   "phase": "NA",
    "sponsor": "University of Aarhus",
    "countries": [
     "Denmark"
    ],
-   "url": "https://clinicaltrials.gov/study/NCT01738932"
+   "url": "https://clinicaltrials.gov/study/NCT02761382"
   },
   {
    "nct_id": "NCT00286351",
@@ -61,37 +47,15 @@
    "url": "https://clinicaltrials.gov/study/NCT00286351"
   },
   {
-   "nct_id": "NCT02761382",
-   "title": "Psychological Pain Treatment in Endometriosis",
-   "status": "COMPLETED",
-   "phase": "NA",
-   "sponsor": "University of Aarhus",
-   "countries": [
-    "Denmark"
-   ],
-   "url": "https://clinicaltrials.gov/study/NCT02761382"
-  },
-  {
-   "nct_id": "NCT01946698",
-   "title": "Endometriosis, Food Consumption and Fertility",
-   "status": "RECRUITING",
-   "phase": "N/A",
-   "sponsor": "University of Aarhus",
-   "countries": [
-    "Denmark"
-   ],
-   "url": "https://clinicaltrials.gov/study/NCT01946698"
-  },
-  {
-   "nct_id": "NCT02762461",
-   "title": "Artificial Reproductive Techniques (ART) and Progression of Endometriosis Symptoms",
+   "nct_id": "NCT02100345",
+   "title": "Conservative Treatment of Rectosigmoid Endometriosis Monitored by Transvaginal Ultrasound",
    "status": "COMPLETED",
    "phase": "N/A",
    "sponsor": "University of Aarhus",
    "countries": [
     "Denmark"
    ],
-   "url": "https://clinicaltrials.gov/study/NCT02762461"
+   "url": "https://clinicaltrials.gov/study/NCT02100345"
   },
   {
    "nct_id": "NCT02924493",
@@ -105,77 +69,15 @@
    "url": "https://clinicaltrials.gov/study/NCT02924493"
   },
   {
-   "nct_id": "NCT00185341",
-   "title": "Study to Investigate the Efficacy of a Non-hormonal Drug Against Endometriosis Associated Pelvic Pain",
+   "nct_id": "NCT01738932",
+   "title": "Genetic Polymorphisms of Mannan-binding Lectin (MBL)and Serum Levels of MBL in Patients With Endometriosis",
    "status": "COMPLETED",
-   "phase": "PHASE2",
-   "sponsor": "Bayer",
-   "countries": [
-    "Czechia",
-    "Denmark",
-    "Finland",
-    "France",
-    "Netherlands",
-    "Spain",
-    "Sweden"
-   ],
-   "url": "https://clinicaltrials.gov/study/NCT00185341"
-  },
-  {
-   "nct_id": "NCT06211231",
-   "title": "MY-ENDO -- Mind Your ENDOmetriosis: a Digital Mindfulness- and Acceptance-based Endometriosis Self-management Program",
-   "status": "RECRUITING",
-   "phase": "NA",
+   "phase": "N/A",
    "sponsor": "University of Aarhus",
    "countries": [
     "Denmark"
    ],
-   "url": "https://clinicaltrials.gov/study/NCT06211231"
-  },
-  {
-   "nct_id": "NCT03373422",
-   "title": "A Study to Test Whether Study Drug BAY1128688 Brings Pain Relief to Women With Endometriosis and if so to Get a First Idea Which Dose(s) Work Best",
-   "status": "TERMINATED",
-   "phase": "PHASE2",
-   "sponsor": "Bayer",
-   "countries": [
-    "Austria",
-    "Belgium",
-    "Czechia",
-    "Denmark",
-    "Finland",
-    "France",
-    "Germany",
-    "Hungary",
-    "Italy",
-    "Netherlands",
-    "Poland",
-    "Spain",
-    "United Kingdom"
-   ],
-   "url": "https://clinicaltrials.gov/study/NCT03373422"
-  },
-  {
-   "nct_id": "NCT05560230",
-   "title": "Intraoperative Clonidine for Postoperative Pain Management in Patients Undergoing Surgical Treatment for Endometriosis",
-   "status": "COMPLETED",
-   "phase": "PHASE4",
-   "sponsor": "University of Aarhus",
-   "countries": [
-    "Denmark"
-   ],
-   "url": "https://clinicaltrials.gov/study/NCT05560230"
-  },
-  {
-   "nct_id": "NCT05162794",
-   "title": "Is Laparoscopic Excision for Peritoneal Endometriosis Helpful or Harmful?",
-   "status": "UNKNOWN",
-   "phase": "NA",
-   "sponsor": "University of Aarhus",
-   "countries": [
-    "Denmark"
-   ],
-   "url": "https://clinicaltrials.gov/study/NCT05162794"
+   "url": "https://clinicaltrials.gov/study/NCT01738932"
   },
   {
    "nct_id": "NCT02203331",
@@ -200,6 +102,104 @@
     "United States"
    ],
    "url": "https://clinicaltrials.gov/study/NCT02203331"
+  },
+  {
+   "nct_id": "NCT06211231",
+   "title": "MY-ENDO -- Mind Your ENDOmetriosis: a Digital Mindfulness- and Acceptance-based Endometriosis Self-management Program",
+   "status": "RECRUITING",
+   "phase": "NA",
+   "sponsor": "University of Aarhus",
+   "countries": [
+    "Denmark"
+   ],
+   "url": "https://clinicaltrials.gov/study/NCT06211231"
+  },
+  {
+   "nct_id": "NCT03749109",
+   "title": "Quinagolide Vaginal Ring on Lesion Reduction Assessed by MRI in Women With Endometriosis/Adenomyosis",
+   "status": "COMPLETED",
+   "phase": "PHASE2",
+   "sponsor": "Ferring Pharmaceuticals",
+   "countries": [
+    "Denmark",
+    "Germany",
+    "Italy",
+    "Poland"
+   ],
+   "url": "https://clinicaltrials.gov/study/NCT03749109"
+  },
+  {
+   "nct_id": "NCT00185341",
+   "title": "Study to Investigate the Efficacy of a Non-hormonal Drug Against Endometriosis Associated Pelvic Pain",
+   "status": "COMPLETED",
+   "phase": "PHASE2",
+   "sponsor": "Bayer",
+   "countries": [
+    "Czechia",
+    "Denmark",
+    "Finland",
+    "France",
+    "Netherlands",
+    "Spain",
+    "Sweden"
+   ],
+   "url": "https://clinicaltrials.gov/study/NCT00185341"
+  },
+  {
+   "nct_id": "NCT05560230",
+   "title": "Intraoperative Clonidine for Postoperative Pain Management in Patients Undergoing Surgical Treatment for Endometriosis",
+   "status": "COMPLETED",
+   "phase": "PHASE4",
+   "sponsor": "University of Aarhus",
+   "countries": [
+    "Denmark"
+   ],
+   "url": "https://clinicaltrials.gov/study/NCT05560230"
+  },
+  {
+   "nct_id": "NCT05162794",
+   "title": "Is Laparoscopic Excision for Peritoneal Endometriosis Helpful or Harmful?",
+   "status": "UNKNOWN",
+   "phase": "NA",
+   "sponsor": "University of Aarhus",
+   "countries": [
+    "Denmark"
+   ],
+   "url": "https://clinicaltrials.gov/study/NCT05162794"
+  },
+  {
+   "nct_id": "NCT02762461",
+   "title": "Artificial Reproductive Techniques (ART) and Progression of Endometriosis Symptoms",
+   "status": "COMPLETED",
+   "phase": "N/A",
+   "sponsor": "University of Aarhus",
+   "countries": [
+    "Denmark"
+   ],
+   "url": "https://clinicaltrials.gov/study/NCT02762461"
+  },
+  {
+   "nct_id": "NCT03373422",
+   "title": "A Study to Test Whether Study Drug BAY1128688 Brings Pain Relief to Women With Endometriosis and if so to Get a First Idea Which Dose(s) Work Best",
+   "status": "TERMINATED",
+   "phase": "PHASE2",
+   "sponsor": "Bayer",
+   "countries": [
+    "Austria",
+    "Belgium",
+    "Czechia",
+    "Denmark",
+    "Finland",
+    "France",
+    "Germany",
+    "Hungary",
+    "Italy",
+    "Netherlands",
+    "Poland",
+    "Spain",
+    "United Kingdom"
+   ],
+   "url": "https://clinicaltrials.gov/study/NCT03373422"
   }
  ]
 }

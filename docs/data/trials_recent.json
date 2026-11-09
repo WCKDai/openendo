@@ -1,60 +1,25 @@
 {
- "updated": "2026-11-02",
+ "updated": "2026-11-09",
  "trials": [
   {
-   "nct_id": "NCT07900698",
-   "title": "Clinical Impact of Ultrasound Diagnosis in Bowel Endometriosis",
+   "nct_id": "NCT07914062",
+   "title": "PRECISION-E2: Teverelix in Women With Endometriosis - Pharmacodynamics, Safety and Precision Medicine Correlates",
    "status": "NOT_YET_RECRUITING",
-   "phase": "N/A",
-   "sponsor": "Erasme University Hospital",
-   "countries": [
-    "Belgium"
-   ],
-   "url": "https://clinicaltrials.gov/study/NCT07900698"
+   "phase": "PHASE2",
+   "sponsor": "Antev Ltd.",
+   "countries": [],
+   "url": "https://clinicaltrials.gov/study/NCT07914062"
   },
   {
-   "nct_id": "NCT05245695",
-   "title": "Deep Neural Network Stratification for Use Detecting Endometriosis in Women Affected by Chronic Pelvic Pain (EndoCheck)",
-   "status": "RECRUITING",
-   "phase": "N/A",
-   "sponsor": "Aspira Women's Health",
-   "countries": [
-    "United States"
-   ],
-   "url": "https://clinicaltrials.gov/study/NCT05245695"
-  },
-  {
-   "nct_id": "NCT07898670",
-   "title": "Effects of Ashwagandha Supplementation on Quality of Life and Well-Being in Women With Endometriosis",
+   "nct_id": "NCT07922408",
+   "title": "Prevalence of Small Intestinal Bacterial Overgrowth (SIBO) in Women With Endometriosis",
    "status": "NOT_YET_RECRUITING",
    "phase": "NA",
-   "sponsor": "Medical University of Vienna",
+   "sponsor": "Insel Gruppe AG, University Hospital Bern",
    "countries": [
-    "Austria"
+    "Switzerland"
    ],
-   "url": "https://clinicaltrials.gov/study/NCT07898670"
-  },
-  {
-   "nct_id": "NCT00073801",
-   "title": "Pelvic Pain in Women With Endometriosis",
-   "status": "COMPLETED",
-   "phase": "N/A",
-   "sponsor": "National Institute of Neurological Disorders and Stroke (NINDS)",
-   "countries": [
-    "United States"
-   ],
-   "url": "https://clinicaltrials.gov/study/NCT00073801"
-  },
-  {
-   "nct_id": "NCT07907848",
-   "title": "Psychotherapy in Patients With Endometriosis: Cognitive Behavioral Therapy Versus Acceptance and Commitment Therapy",
-   "status": "NOT_YET_RECRUITING",
-   "phase": "NA",
-   "sponsor": "Fiammetta Cosci",
-   "countries": [
-    "Italy"
-   ],
-   "url": "https://clinicaltrials.gov/study/NCT07907848"
+   "url": "https://clinicaltrials.gov/study/NCT07922408"
   },
   {
    "nct_id": "NCT07755956",
@@ -68,15 +33,92 @@
    "url": "https://clinicaltrials.gov/study/NCT07755956"
   },
   {
-   "nct_id": "NCT07393958",
-   "title": "Impact of Food Supplementation on Quality of Life in Patients With Endometriosis and Pelvic Pain.",
+   "nct_id": "NCT07127783",
+   "title": "Physical Therapy After Endometriosis Excision",
+   "status": "COMPLETED",
+   "phase": "NA",
+   "sponsor": "Oregon Health and Science University",
+   "countries": [
+    "United States"
+   ],
+   "url": "https://clinicaltrials.gov/study/NCT07127783"
+  },
+  {
+   "nct_id": "NCT06502548",
+   "title": "Endometriosis Transcriptomic Cell Atlas",
    "status": "RECRUITING",
    "phase": "NA",
-   "sponsor": "Arafarma Group, S.A.",
+   "sponsor": "University Hospital, Toulouse",
    "countries": [
-    "Spain"
+    "France"
    ],
-   "url": "https://clinicaltrials.gov/study/NCT07393958"
+   "url": "https://clinicaltrials.gov/study/NCT06502548"
+  },
+  {
+   "nct_id": "NCT07907848",
+   "title": "Psychotherapy in Patients With Endometriosis: Cognitive Behavioral Therapy Versus Acceptance and Commitment Therapy",
+   "status": "NOT_YET_RECRUITING",
+   "phase": "NA",
+   "sponsor": "Fiammetta Cosci",
+   "countries": [
+    "Italy"
+   ],
+   "url": "https://clinicaltrials.gov/study/NCT07907848"
+  },
+  {
+   "nct_id": "NCT05480995",
+   "title": "Evaluation of Endometriosis With 18F-fluorofuranylnorprogesterone PET / MRI",
+   "status": "COMPLETED",
+   "phase": "PHASE2",
+   "sponsor": "University of North Carolina, Chapel Hill",
+   "countries": [
+    "United States"
+   ],
+   "url": "https://clinicaltrials.gov/study/NCT05480995"
+  },
+  {
+   "nct_id": "NCT00073801",
+   "title": "Pelvic Pain in Women With Endometriosis",
+   "status": "COMPLETED",
+   "phase": "N/A",
+   "sponsor": "National Institute of Neurological Disorders and Stroke (NINDS)",
+   "countries": [
+    "United States"
+   ],
+   "url": "https://clinicaltrials.gov/study/NCT00073801"
+  },
+  {
+   "nct_id": "NCT07915765",
+   "title": "Impact of a Diagnosis or Lack of a Diagnosis of Endometriosis Via a Saliva Test on Pain Catastrophizing, Quality of Life, Symptoms of Anxiety and Depression, and Treatment Adherence",
+   "status": "NOT_YET_RECRUITING",
+   "phase": "N/A",
+   "sponsor": "University Hospital, Lille",
+   "countries": [
+    "France"
+   ],
+   "url": "https://clinicaltrials.gov/study/NCT07915765"
+  },
+  {
+   "nct_id": "NCT06885125",
+   "title": "Dietary Intervention to Improve Fertility in Women With Endometriosis Undergoing IVF",
+   "status": "RECRUITING",
+   "phase": "NA",
+   "sponsor": "Fondazione IRCCS Ca' Granda, Ospedale Maggiore Policlinico",
+   "countries": [
+    "Italy"
+   ],
+   "url": "https://clinicaltrials.gov/study/NCT06885125"
+  },
+  {
+   "nct_id": "NCT06452407",
+   "title": "Evaluating the Feasibility of elleFA App Implementation",
+   "status": "RECRUITING",
+   "phase": "NA",
+   "sponsor": "McGill University Health Centre/Research Institute of the McGill University Health Centre",
+   "countries": [
+    "Canada"
+   ],
+   "url": "https://clinicaltrials.gov/study/NCT06452407"
   }
  ]
 }
