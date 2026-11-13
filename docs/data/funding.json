@@ -109,7 +109,7 @@
     "org": "Wellcome Trust",
     "country": "GB",
     "url": "https://wellcome.org/research-funding",
-    "deadline": "2026-11-10",
+    "deadline": null,
     "open": true,
     "desc": {
       "en": "Large, flexible awards for ambitious research programmes. Up to £3M.",
