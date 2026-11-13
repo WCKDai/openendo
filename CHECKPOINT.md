@@ -16,7 +16,7 @@
 > owner tags below are historical; treat open items as Galahad's. The human
 > (wckdboy) remains final reviewer.
 
-**Last updated:** 2026-11-09 (Galahad, weekly data refresh) · **Maintainer:** Galahad (sole agent)
+**Last updated:** 2026-11-13 (Galahad, Wellcome deadline flag) · **Maintainer:** Galahad (sole agent)
 
 ---
 
@@ -105,6 +105,8 @@
 ---
 
 ## ✅ Recently done (change log)
+
+- **2026-11-13 (Galahad)** — **CI unblock: Wellcome Discovery recorded deadline cleared (scheme is rolling)** — `docs/data/funding.json` still had `open: true` on **wellcome-discovery** with recorded deadline 2026-11-10. Today is 2026-11-13, so `audit_site.py`'s past-deadline gate would fail every PR. The Wellcome Discovery Awards scheme page (https://wellcome.org/research-funding/schemes/wellcome-discovery-awards, read 2026-11-13) says "Apply anytime" and "There are no deadlines for applications to this scheme." The open round lists applications open 23 September 2026 and "No deadline - apply anytime." On the closed September 2026 round, November 2026 is the shortlisting meeting; that round's application deadline was 22 September 2026, 15:00 BST. The recorded 2026-11-10 does not appear on the page. Deadline set to `null` and `open` left `true`, the same shape as the rolling ESHRE and WERF rows. `open` was not set to `false`: that would list a call Wellcome still accepts. If a later fixed deadline is published, write that date rather than closing this flag from 2026-11-10. RO-Crate regenerated. *Galahad*
 
 - **2026-11-13 (Galahad, M2)** — **M2 weekly evidence digest** — `docs/research/evidence/digest-2026-11-13.md` — **32 papers** (PubMed E-utilities; pdat 2026-11-06..11-13 returned 21 records, plus 21 edat-only records indexed 2026-11-07..11-13; 42 screened, 1 carry-over, 9 dropped as noise). A day-less "2026 Nov" date did not re-enter this pdat window. The one carry-over (PMID 42803692) now lists pubdate 2026 Nov 11 and was already synthesized in digest-2026-10-02. Headline themes: **suggestive deep-disease ultrasound after menopause** (492 women, 40/492, 8.1%, not histology for the set, PMID 43001842) · **IDEA image documentation** (783 patients, pouch-of-Douglas obliteration specificity 80.0% to 93.9%, rectosigmoid 79.9% to 90.0%, one centre, PMID 43009933) · **bowel surgery** (91 patients, Clavien-Dindo III in 19/91, not separated by technique, PMID 43018427) · **who records the diagnosis** (255/8305 versus 4825/21456 laparoscopies, PMID 43016060). No new guideline or Cochrane update. The Freedom of Information paper's 7-year delay is not adopted; the WHO 4–12 year range stands. Lemon-vesicle and macrophage ferroptosis papers (PMID 43020163, PMID 43007482) and the ACSL review (PMID 43017016) do not move the lesion-cell ferroptosis sentence or the sulfasalazine watchlist. Zinc and copper (PMID 42993059) are not an M3 verdict and not a supplement. The combined blood index (PMID 43017562) did not beat CRP. Coagulation testing (PMID 42996662) and chronic-endometritis testing (PMID 43012803) are not adopted; both papers say they are not a protocol. No M3 repurposing verdict changes. Yselty and saliva-diagnostics pages unchanged. Snapshot `weekly/2026-11-13.json` (+ `LATEST`), llms.txt pointers updated. *Galahad*
 
