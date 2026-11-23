@@ -1,82 +1,60 @@
 {
- "updated": "2026-11-16",
+ "updated": "2026-11-23",
  "trials": [
   {
-   "nct_id": "NCT07765680",
-   "title": "Perioperative Yoga Therapy and Endometriosis Surgery",
-   "status": "NOT_YET_RECRUITING",
-   "phase": "NA",
-   "sponsor": "University Hospital, Lille",
+   "nct_id": "NCT07944560",
+   "title": "Development of dEep EndometrioSis Following Acute haemoPerITonEum",
+   "status": "RECRUITING",
+   "phase": "N/A",
+   "sponsor": "Fondazione IRCCS Ca' Granda, Ospedale Maggiore Policlinico",
    "countries": [
-    "France"
+    "Italy"
    ],
-   "url": "https://clinicaltrials.gov/study/NCT07765680"
+   "url": "https://clinicaltrials.gov/study/NCT07944560"
   },
   {
-   "nct_id": "NCT00073801",
-   "title": "Pelvic Pain in Women With Endometriosis",
+   "nct_id": "NCT07949136",
+   "title": "Discoid Excision Versus Segmental Resection for Rectal Endometriosis",
+   "status": "RECRUITING",
+   "phase": "NA",
+   "sponsor": "Alexandria University",
+   "countries": [
+    "Egypt"
+   ],
+   "url": "https://clinicaltrials.gov/study/NCT07949136"
+  },
+  {
+   "nct_id": "NCT07664956",
+   "title": "Cyclobenzaprine for Postoperative Pain in Minimally Invasive Hysterectomy",
+   "status": "RECRUITING",
+   "phase": "PHASE4",
+   "sponsor": "Christiana Care Health Services",
+   "countries": [
+    "United States"
+   ],
+   "url": "https://clinicaltrials.gov/study/NCT07664956"
+  },
+  {
+   "nct_id": "NCT05976529",
+   "title": "Dydrogesterone and Dienogest After Surgery for Ovarian Endometrioma",
    "status": "COMPLETED",
    "phase": "N/A",
-   "sponsor": "National Institute of Neurological Disorders and Stroke (NINDS)",
+   "sponsor": "Guangdong Women and Children Hospital",
+   "countries": [
+    "China"
+   ],
+   "url": "https://clinicaltrials.gov/study/NCT05976529"
+  },
+  {
+   "nct_id": "NCT06974773",
+   "title": "Remote Electrical Stimulation as a Long-term Intervention for Endometriosis Flare Ups",
+   "status": "RECRUITING",
+   "phase": "NA",
+   "sponsor": "Samphire Group, Inc.",
    "countries": [
     "United States"
    ],
-   "url": "https://clinicaltrials.gov/study/NCT00073801"
-  },
-  {
-   "nct_id": "NCT07933094",
-   "title": "Combined TECAR/EMS Therapy vs. Standard Manual Therapy for Endometriosis Pelvic Pain",
-   "status": "RECRUITING",
-   "phase": "NA",
-   "sponsor": "SWIMS America Corp.",
-   "countries": [
-    "United States"
-   ],
-   "url": "https://clinicaltrials.gov/study/NCT07933094"
-  },
-  {
-   "nct_id": "NCT06955221",
-   "title": "Effect of Alcohol Sclerotherapy on Pelvic Pain and Quality of Life in Women With Ovarian Endometriosis",
-   "status": "RECRUITING",
-   "phase": "NA",
-   "sponsor": "Hospital Universitari de Bellvitge",
-   "countries": [
-    "Spain"
-   ],
-   "url": "https://clinicaltrials.gov/study/NCT06955221"
-  },
-  {
-   "nct_id": "NCT03080558",
-   "title": "Estimation of Vascularization After Treatment of Deep Rectovaginal Endometriosis Node by Rectal Shaving",
-   "status": "COMPLETED",
-   "phase": "PHASE4",
-   "sponsor": "University Hospital, Clermont-Ferrand",
-   "countries": [
-    "France"
-   ],
-   "url": "https://clinicaltrials.gov/study/NCT03080558"
-  },
-  {
-   "nct_id": "NCT05570786",
-   "title": "Subdermal Implant-bioabsorbable Gestrinone Pellet for Endometriosis Pelvic Pain Treatment",
-   "status": "COMPLETED",
-   "phase": "PHASE2",
-   "sponsor": "Science Valley Research Institute",
-   "countries": [
-    "Brazil"
-   ],
-   "url": "https://clinicaltrials.gov/study/NCT05570786"
-  },
-  {
-   "nct_id": "NCT05909579",
-   "title": "Investigating the Effectiveness of PelvicSense(R) on Pain and Sexual Outcomes in Endometriosis",
-   "status": "COMPLETED",
-   "phase": "NA",
-   "sponsor": "Dr. Caroline Pukall",
-   "countries": [
-    "Canada"
-   ],
-   "url": "https://clinicaltrials.gov/study/NCT05909579"
+   "url": "https://clinicaltrials.gov/study/NCT06974773"
   },
   {
    "nct_id": "NCT07875062",
@@ -90,27 +68,15 @@
    "url": "https://clinicaltrials.gov/study/NCT07875062"
   },
   {
-   "nct_id": "NCT06907303",
-   "title": "RNA Assays for Endometriosis Detection and Diagnosis",
-   "status": "ENROLLING_BY_INVITATION",
+   "nct_id": "NCT07947459",
+   "title": "Validation Study of Laparoscopic Intraoperative Ultrasound for Measuring Rectosigmoid Deep Infiltrating Endometriosis Nodules",
+   "status": "ACTIVE_NOT_RECRUITING",
    "phase": "N/A",
-   "sponsor": "Wren Laboratories LLC",
+   "sponsor": "Fondazione Policlinico Universitario Agostino Gemelli IRCCS",
    "countries": [
-    "South Africa",
-    "United States"
+    "Italy"
    ],
-   "url": "https://clinicaltrials.gov/study/NCT06907303"
-  },
-  {
-   "nct_id": "NCT03204682",
-   "title": "Repetitive Transcranial Magnetic Stimulation as an Analgesic Treatment in Endometriosis Chronic Pain : Feasibility",
-   "status": "COMPLETED",
-   "phase": "NA",
-   "sponsor": "University Hospital, Clermont-Ferrand",
-   "countries": [
-    "France"
-   ],
-   "url": "https://clinicaltrials.gov/study/NCT03204682"
+   "url": "https://clinicaltrials.gov/study/NCT07947459"
   }
  ]
 }
